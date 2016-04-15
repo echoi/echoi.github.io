@@ -17,7 +17,7 @@ Assistant Professor \\
 ## Contact
 
 3890 Central Ave. \\
-Memphis, TN \\
+Memphis, TN 38152 \\
 Office: 901-678-4923 \\
 Fax: 901-678-4923 \\
 Email: echoi2@memphis.edu
