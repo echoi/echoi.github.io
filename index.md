@@ -9,7 +9,7 @@ permalink: /
 Eunseo Choi \\
 Assistant Professor
 [Center for Earthquake Research and Information](http://www.memphis.edu/ceri/) \\
-[The University of Memphis](http://www.memphis.edu) \\
+[The University of Memphis](http://www.memphis.edu)
 
 **Research interests**: Normal faults, mid-ocean ridges, oceanic lithosphere, geodynamics, computational tectonic modeling, computational methods, HPC.
 
