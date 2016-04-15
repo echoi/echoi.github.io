@@ -11,7 +11,7 @@ email: echoi2@memphis.edu
 description: > # this means to ignore newlines until "baseurl:"
   Progress, finding, problem, agony, joy, whining, mantra.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://echoi.github.io" # the base hostname & protocol for your site
 twitter_username: eunseochoi
 github_username:  echoi
 
