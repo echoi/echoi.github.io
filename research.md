@@ -21,6 +21,6 @@ pubs:
 {{pub.year}}.
 *{{pub.journal}}*,
 {% if pub.note %} *({{pub.note}})*
-{% endif %} doi:[{{pub.doi}}](dx.doi.org/{{pub.doi}}).
+{% endif %} doi:[{{pub.doi}}](http://dx.doi.org/{{pub.doi}}).
 <!-- Read about this paper on Kudos as well: [{{pub.kudos}}]({{pub.kudos}}) -->
 {% endfor %}
