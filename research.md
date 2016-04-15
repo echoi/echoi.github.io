@@ -15,12 +15,10 @@ pubs:
 ## Publications
 
 {% for pub in page.pubs %}
-{% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %},
-{{site.baseurl}}
+{% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.kudos}}){% endif %},
 {{pub.author}}
 {{pub.year}}.
 *{{pub.journal}}*,
 {% if pub.note %} *({{pub.note}})*
 {% endif %} doi:[{{pub.doi}}](http://dx.doi.org/{{pub.doi}}).
-<!-- Read about this paper on Kudos as well: [{{pub.kudos}}]({{pub.kudos}}) -->
 {% endfor %}
