@@ -4,21 +4,18 @@ permalink: /research/
 title: Research
 pubs:
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2016"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-
     - author: "Hong, T.-K., E. Choi, S. Park, and J. S. Shin"
       year: "(2016)"
       title: "Prediction of ground motion and dynamic stress change in Baekdusan (Changbaishan) volcano caused by a North Korean nuclear explosion"
       journal: "Sci. Rep."
-      volume: "6"
-      page: "21477"
       doi: "10.1038/srep21477"
+      kudos: "http://goo.gl/NYQczl"
+
+    <!-- - author: "Choi, E., and K. D. Petersen"
+      year: "(2015)"
+      title: "Making Coulomb angle-oriented shear bands in numerical tectonic models"
+      journal: "Tectonophysics"
+      doi: "10.1016/j.tecto.2015.06.026" -->
 ---
 
 ## Publications
@@ -29,5 +26,5 @@ pubs:
 {{pub.year}}.
 *{{pub.journal}}*,
 {% if pub.note %} *({{pub.note}})*
-{% endif %} doi:[{{pub.doi}}](dx.doi.org/{{pub.doi}})
+{% endif %} doi:[{{pub.doi}}](dx.doi.org/{{pub.doi}}). Read about this paper on Kudos as well: [{{pub.kudos}}]({{pub.kudos}})
 {% endfor %}
