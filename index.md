@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/Memphis_Elvis_Pink_Cadillac.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/Memphis_Elvis_Pink_Cadillac.jpg" caption="" max_width="300px" align="right" style="filter:FlipV" %}
 
 Eunseo Choi \\
 Assistant Professor \\
