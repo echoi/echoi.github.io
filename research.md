@@ -24,9 +24,10 @@ pubs:
 ## Publications
 
 {% for pub in page.pubs %}
-{% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %}<br />
-{{pub.author}}<br />
-*{{pub.journal}}*
+{% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %},
+{{pub.author}}
+{{pub.year}}.
+*{{pub.journal}}*,
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* [(doi)]({{pub.doi}})
+{% endif %} ** [(doi)]({{pub.doi}})
 {% endfor %}
