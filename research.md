@@ -29,5 +29,5 @@ pubs:
 {{pub.year}}.
 *{{pub.journal}}*,
 {% if pub.note %} *({{pub.note}})*
-{% endif %} ** [(doi)]({{pub.doi}})
+{% endif %} doi:[{pub.doi}]({{pub.doi | prepend: dx.doi.org}})
 {% endfor %}
