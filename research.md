@@ -17,6 +17,13 @@ pubs:
       journal: "Tectonophysics"
       doi: "10.1016/j.tecto.2015.06.026"
       kudos: "http://goo.gl/wvoYeE"
+
+    - author: "Ta, T., K. Choo, E. Tan, B. Jang, and E. Choi"
+      year: "(2015)"
+      title: "Accelerating DynEarthSol3D on tightly coupled CPU–GPU heterogeneous processors"
+      journal: "Comput. Geosci."
+      doi: "10.1016/j.cageo.2015.03.003"
+      kudos: "http://goo.gl/pLKmhL"
 ---
 
 ## Publications
