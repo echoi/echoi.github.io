@@ -45,7 +45,7 @@ analytics:
 comments:
     provider: disqus
     disqus:
-      short_name:
+      short_name: echoi
     livefyre:
       site_id:
     intensedebate:
