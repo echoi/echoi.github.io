@@ -4,7 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-# CV
 Download [a PDF version]({{ site.url }}/assets/CV_Choi.pdf).
 
 ## Education

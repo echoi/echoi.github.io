@@ -4,8 +4,6 @@ title: Publications
 permalink: /publist/
 ---
 
-# Publications
-
 ## Peer-reviewd Papers
 * Wu, G., L. Lavier and E. Choi, **Extension of continental wedge**, *Earth Planet. Sci. Lett.*
 * E. Choi and K. D. Petersen, **Dilation angle and shear band orientations in numerical tectonic models**, *Tectonophysics*
