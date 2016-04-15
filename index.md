@@ -7,7 +7,7 @@ permalink: /
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
 Eunseo Choi \\
-Assistant Professor
+Assistant Professor \\
 [Center for Earthquake Research and Information](http://www.memphis.edu/ceri/) \\
 [The University of Memphis](http://www.memphis.edu)
 
