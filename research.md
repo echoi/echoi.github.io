@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+<!-- permalink: /research/ -->
 title: Research
 pubs:
 
@@ -29,5 +29,5 @@ pubs:
 {{pub.year}}.
 *{{pub.journal}}*,
 {% if pub.note %} *({{pub.note}})*
-{% endif %} doi:[{pub.doi}]({{pub.doi | prepend: dx.doi.org}})
+{% endif %} doi:[{{pub.doi}}](dx.doi.org/{{pub.doi}})
 {% endfor %}
