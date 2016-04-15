@@ -8,8 +8,8 @@ pubs:
       year: "(2016)"
       title: "Prediction of ground motion and dynamic stress change in Baekdusan (Changbaishan) volcano caused by a North Korean nuclear explosion"
       journal: "Sci. Rep."
-      doi: "10.1038/srep21477"
       kudos: "http://goo.gl/NYQczl"
+      doi: "10.1038/srep21477"
 
     <!-- - author: "Choi, E., and K. D. Petersen"
       year: "(2015)"
