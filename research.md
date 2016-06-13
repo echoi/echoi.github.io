@@ -4,6 +4,12 @@ permalink: /research/
 title: Research
 pubs:
 
+    - author: "Logan, L. C., L. L. Lavier, E. Choi, E. Tan, and G. A. Catania"
+      year: "(2016)"
+      title: "Semi-brittle rheology and ice dynamics in DynEarthSol3D"
+      journal: "Cryosph. Discuss."
+      doi: "10.5194/tc-2016-88"
+      
     - author: "Hong, T.-K., E. Choi, S. Park, and J. S. Shin"
       year: "(2016)"
       title: "Prediction of ground motion and dynamic stress change in Baekdusan (Changbaishan) volcano caused by a North Korean nuclear explosion"
