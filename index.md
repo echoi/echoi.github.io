@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/Why_3D_M.png" caption="" max_width="300px" align="right" style="filter:FlipV" %}
+{% include image.html url="images/Why_3D_M.png" caption="" max_width="600px" align="right" style="filter:FlipV" %}
 
 Eunseo Choi \\
 Assistant Professor \\
