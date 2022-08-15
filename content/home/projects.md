@@ -25,14 +25,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
-      tag: '*'
-    - name: Tectonic Modeling
-      tag: Long-term Tectonic Modeling  
-    - name: Seismotectonics
-      tag: Seismotectonics
-    - name: Code
-      tag: Geodynamic Code Development
+    # - name: All
+    #   tag: '*'
+    # - name: Tectonic Modeling
+    #   tag: Long-term Tectonic Modeling  
+    # - name: Seismotectonics
+    #   tag: Seismotectonics
+    # - name: Code
+    #   tag: Geodynamic Code Development
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
