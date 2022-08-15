@@ -81,4 +81,4 @@ Eunseo Choi is an associate professor of computational geodynamics at Center for
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Choi.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-Prospective students and post-docs, please visit [the online CERI brochure](bhttps://sway.office.com/8JBnzeNFBkgzhszy).
+Prospective students and post-docs, please visit [the online CERI brochure](https://sway.office.com/8JBnzeNFBkgzhszy).
