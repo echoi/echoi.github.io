@@ -1,77 +1,84 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Eunseo Choi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor of Geophysics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- name: Center for Earthquake Research and Information
+  url: "https://memphis.edu/ceri/"
+#- name: Online brochure for prospective studends
+#  url: "https://sway.office.com/8JBnzeNFBkgzhszy"
+- name: The University of Memphis
+  url: "https://memphis.edu/" 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include long- and short-term tectonic modeling and seismotectonics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Long-term deformations in continental and oceanic lithosphere
+- Seismotectonics
+- Coupling of tectonic and surface processes
+- High-performance computing, GPU computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD in Geophysics
+    institution: California Institute of Technology
+    year: 2009
+  - course: BSc in Geology
+    institution: Seoul National University
+    year: 1998
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: address-card
+  icon_pack: fas
+  link: https://www.memphis.edu/ceri/people/faculty/eunseo-choi.php
+- icon: users
+  icon_pack: fas
+  link: https://www.memphis.edu/ceri/research/geodynamics.php
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCmMzRY-g6CemnSVVZvEILJw
+#- icon: slack
+#  icon_pack: fab
+#  link: https://cerigeodyn.slack.com
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/echoi
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/CV_Choi.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: "echoi2@memphis.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Eunseo Choi is an associate professor of computational geodynamics at Center for Earthquake Research and Information (CERI) of The University of Memphis, Memphis, Tennessee, US. His research interests include long-term deformations in continental and oceanic lithosphere, seismotectonics, coupling of tectonic and surface processes and high-performance computing. He leads CERI's Geodynamics Research Group collaborating with colleagues in seismology and geology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Choi.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Prospective students and post-docs, please visit [the online CERI brochure](bhttps://sway.office.com/8JBnzeNFBkgzhszy).
