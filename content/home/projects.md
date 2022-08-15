@@ -27,10 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Tectonic Modeling
+      tag: Long-term Tectonic Modeling  
+    - name: Seismotectonics
+      tag: Seismotectonics
+    - name: Code
+      tag: Geodynamic Code Development
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -12,7 +12,7 @@ tags:
 - rate-and-state friction
 - Adaptive Mesh Refinement
 categories:
-- research
+- research, geodynamic code development
 
 date: ""
 lastmod: "2020-05-06"
