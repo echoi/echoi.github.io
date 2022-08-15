@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 publication: "*Earth and Planetary Science Letters*"
 tags: ["parkfield earthquakes"]
-url_pdf: "/uploads/Perrin et al. - 2019 - Earth and Planetary Science Letters - Persistent fine-scale fault structure and rupture development A new twist i.pdf"
+url_pdf: "/uploads/Perrin_etal_EPSL_2019_Twist.pdf"
 doi: "10.1016/j.epsl.2019.06.010"
 ---
 

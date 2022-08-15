@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 publication: "*Journal of Geophysical Research: Solid Earth*"
 tags: ["seismicity", "Charlevoix", "crater", "preexisting", "PyLith", "structures"]
-url_pdf: "/uploads/Fadugba, Choi, Powell - 2019 - Journal of Geophysical Research Solid Earth - Effects of Preexisting Structures on the Seismicity of the.pdf"
+url_pdf: "/uploads/Fadugba_etal_JGR_2019_Preexisting.pdf"
 doi: "10.1029/2019JB017831"
 ---
 

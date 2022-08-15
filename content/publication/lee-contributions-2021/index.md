@@ -61,7 +61,7 @@ abstract: Summary The Korean Peninsula (KP), located along the eastern margin of
   stress, driven by these heterogeneities, directly affects the seismicity of the
   upper crust.
 publication: '*Geophysical Journal International*'
-url_pdf: "/uploads/Lee et al_2021_Contributions from lithospheric and upper-mantle heterogeneities to upper.pdf"
+url_pdf: "/uploads/Lee_etal_JGR_2021_Korea.pdf"
 doi: 10.1093/gji/ggab527
 links:
 - name: URL

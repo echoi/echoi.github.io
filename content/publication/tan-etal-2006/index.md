@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Geochemistry Geophysics Geosystems*"
-url_pdf: "/uploads/Tan et al. - 2006 - Geochemistry Geophysics Geosystems - GeoFramework Coupling multiple models of mantle convection within a computation.pdf"
+url_pdf: "/uploads/Tan_etal_G3_2006_GeoFramework.pdf"
 doi: "10.1029/2005GC001155"
 ---
 

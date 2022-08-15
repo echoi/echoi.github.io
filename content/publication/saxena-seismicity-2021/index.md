@@ -56,6 +56,6 @@ abstract: 'Sources of stress responsible for earthquakes occurring in the Centra
   ﬂow due to the upper-mantle heterogeneities can cause stress perturbations, which
   could help explain the intraplate seismicity in this region.'
 publication: '*Geophysical Journal International*'
-url_pdf: "/uploads/Saxena et al. - 2021 - Geophysical Journal International - Seismicity and upper mantle heterogeneity in the CEUS.pdf"
+url_pdf: "/uploads/Saxena_etal_GJI_2021_CEUS.pdf"
 doi: 10.1093/gji/ggab051
 ---

@@ -40,7 +40,7 @@ publication_types:
 abstract: ''
 publication: '*Palaeogeography, Palaeoclimatology, Palaeoecology*'
 doi: 10.1016/j.palaeo.2022.111185
-url_pdf: "/uploads/Yang et al_2022_Early Holocene relative sea-level changes on the central east coast of the.pdf"
+url_pdf: "/uploads/Yang_etal_P3_2022_SeaLevel.pdf"
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0031018222003558

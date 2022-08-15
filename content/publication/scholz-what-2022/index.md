@@ -34,7 +34,7 @@ publication_types:
 abstract: ''
 publication: '*Earth and Planetary Science Letters*'
 doi: 10.1016/j.epsl.2021.117273
-url_pdf: "/uploads/Scholz_Choi_2022_What comes first.pdf"
+url_pdf: "/uploads/ScholzChoi_EPSL_2022_WhatComesFirst"
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0012821X2100529X
