@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Geophys. Res. Lett.*"
-url_pdf: "/uploads/Choi, Gurnis - 2003 - Geophys. Res. Lett. - Deformation in transcurrent and extensional environments with widely spaced weak zones.pdf"
+url_pdf: "/uploads/ChoiGurnis_GRL_2003_WeakZones"
 doi: "10.1029/2002GL016129"
 ---
 

@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Geophysical Research: Solid Earth*"
-url_pdf: "/uploads/Choi et al. - 2013 - Journal of Geophysical Research Solid Earth - DynEarthSol2D An efficient unstructured finite element method to stud.pdf"
+url_pdf: "/uploads/Choi_etal_JGR_2013_DynEarthSol2D.pdf"
 doi: "10.1002/jgrb.50148"
 ---
 

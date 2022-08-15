@@ -38,7 +38,7 @@ publication_types:
 abstract: ''
 publication: '*Earth and Space Science*'
 doi: 10.1029/2021EA002144
-url_pdf: "/uploads/Abbey et al_2022_Tectonophysics Perspectives on Integrated, Coordinated, Open, Networked (ICON).pdf"
+url_pdf: "/uploads/Abbey_etal_ESS_2022_TectonophysicsPerspectives.pdf"
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1029/2021EA002144

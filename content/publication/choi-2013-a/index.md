@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Geophysical Research Letters*"
-url_pdf: "/uploads/Choi et al. - 2013 - Geophysical Research Letters - Using core complex geometry to constrain fault strength(2).pdf"
+url_pdf: "/uploads/Choi_etal_GRL_2013_CoreComplex.pdf"
 doi: "10.1002/grl.50732"
 ---
 
