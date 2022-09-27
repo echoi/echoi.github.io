@@ -29,9 +29,13 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: email
+  icon_pack: fas
+  link: mailto:rclam@memphis.edu
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "rclam@memphis.edu"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
