@@ -19,6 +19,7 @@ subtitle:
 
 content:
   user_groups:
+    - Postdoc Researcher
     - Grad Students
     - Alumni
 
