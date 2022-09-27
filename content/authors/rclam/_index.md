@@ -31,7 +31,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rclam@memphis.edu
+  link: "mailto:rclam@memphis.edu"
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
