@@ -24,8 +24,8 @@ external_link: ""
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 3
-  caption: A. Ridge-parallel thermal contraction can explain the orthogonal intersection between a ridge segment and fracture zones (Choi et al., PEPI, 2008). B. Ridge-parallel thermal stress arising in a ridge segment that cannot freely contract can induce normal faulting, leading to segmentation of the ridge (Choi and Gurnis, 2008). C. Ridge-parallel thermal contraction in a fracture zone-bounded ridge segment can cause slight upward-concave bending of the elastic portion of the lithosphere, which is consistent with the observations from some selected ridge systems (Choi and Tominaga, in review).
+  placement: 2
+  caption: Ridge-parallel thermal contraction can explain the orthogonal intersection between a ridge segment and fracture zones (Choi et al., PEPI, 2008).
   focal_point: "TopLeft"
   preview_only: false
   
@@ -49,5 +49,6 @@ slides: ""
 ---
 
 The main goal of this project is to understand how thermal expansion and contraction rocks experience as they go through temperature changes influence tectonic processes such as faulting and bending of oceanic lithosphere and determination of the geometry of mid-ocean ridges. Related topics that have yet to be explored include differential thermal expansion of subducted slab, thermal contraction during the formation of oceanic and continental core complexes, and the formation of other geological structures involving significant temperature change.
-![test](./featured.png)
 
+![Figures from the past and current projects](./projects.png)
+A. Ridge-parallel thermal contraction can explain the orthogonal intersection between a ridge segment and fracture zones (Choi et al., PEPI, 2008). B. Ridge-parallel thermal stress arising in a ridge segment that cannot freely contract can induce normal faulting, leading to segmentation of the ridge (Choi and Gurnis, 2008). C. Ridge-parallel thermal contraction in a fracture zone-bounded ridge segment can cause slight upward-concave bending of the elastic portion of the lithosphere, which is consistent with the observations from some selected ridge systems (Choi and Tominaga, in review).
