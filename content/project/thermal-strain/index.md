@@ -12,7 +12,7 @@ categories:
 - long-term tectonic modeling
 
 date: ""
-lastmod: "2022-09-28"
+lastmod: "2022-10-10"
 featured: false
 draft: false
 
