@@ -25,7 +25,7 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 1
-  caption: A. Ridge-parallel thermal contraction can explain the orthogonal intersection between a ridge segment and fracture zones. B. Ridge-parallel thermal stress arising in a ridge segment that cannot freely contract can induce normal faulting, leading to segmentation of the ridge. C. Ridge-parallel thermal contraction in a fracture zone-bounded ridge segment can cause slight upward-concave bending of the elastic portion of the lithosphere, which is consistent with the observations from some selected ridge systems.
+  caption: A. Ridge-parallel thermal contraction can explain the orthogonal intersection between a ridge segment and fracture zones (Choi et al., PEPI, 2008). B. Ridge-parallel thermal stress arising in a ridge segment that cannot freely contract can induce normal faulting, leading to segmentation of the ridge (Choi and Gurnis, 2008). C. Ridge-parallel thermal contraction in a fracture zone-bounded ridge segment can cause slight upward-concave bending of the elastic portion of the lithosphere, which is consistent with the observations from some selected ridge systems (Choi and Tominaga, in review).
   focal_point: ""
   preview_only: false
   
