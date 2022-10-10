@@ -49,4 +49,5 @@ slides: ""
 ---
 
 The main goal of this project is to understand how thermal expansion and contraction rocks experience as they go through temperature changes influence tectonic processes such as faulting and bending of oceanic lithosphere and determination of the geometry of mid-ocean ridges. Related topics that have yet to be explored include differential thermal expansion of subducted slab, thermal contraction during the formation of oceanic and continental core complexes, and the formation of other geological structures involving significant temperature change.
+![test](./featured.png)
 
