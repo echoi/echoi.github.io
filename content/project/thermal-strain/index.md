@@ -26,7 +26,7 @@ external_link: ""
 image:
   placement: 2
   caption: Ridge-parallel thermal contraction can explain the orthogonal intersection between a ridge segment and fracture zones (Choi et al., PEPI, 2008).
-  focal_point: "TopLeft"
+  focal_point: "Smart"
   preview_only: false
   
 links: ""
