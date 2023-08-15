@@ -3,7 +3,7 @@ title: 'Crustal and Uppermost Mantle Structures Imaged by Teleseismic P-wave Tra
   Tomography Beneath the Southeastern Korean Peninsula: Implications for a Hydrothermal
   System Controlled by the Thermally Modified Lithosphere'
 date: '2023-01-01'
-draft: true
+draft: false
 publishDate: '2023-08-15T16:17:02.561216Z'
 authors:
 - Sungho Lee
