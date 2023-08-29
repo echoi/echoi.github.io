@@ -20,5 +20,9 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Geophysical Journal International*'
+doi: 10.1093/gji/ggad319
+links:
+- name: URL
+  url: https://academic.oup.com/gji/article/235/2/1639/7240737
 ---
 
