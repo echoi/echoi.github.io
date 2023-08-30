@@ -14,7 +14,7 @@ role: Post-doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Florida
+- name: Mathematical and Statistical Sciences at Clemson University
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
