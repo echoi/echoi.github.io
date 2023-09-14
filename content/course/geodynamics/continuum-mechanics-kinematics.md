@@ -1,23 +1,25 @@
 ---
-title: Python basics
-date: '2021-01-01'
+title: Continnum kinematics
+date: '2023-09-13'
 type: book
 weight: 20
 ---
 
-Build a foundation in Python.
+Continuum Kinematics
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+<!-- {{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks -->
 
 ## Learn
 
-{{< youtube rfscVS0vtbw >}}
+[Lecture slides](/uploads/geodynamics/ContinuumMechanics-Kinematics.pdf)
+<!-- {{< youtube rfscVS0vtbw >}} -->
 
 ## Quiz
 
-{{< spoiler text="What is the difference between lists and tuples?" >}}
+To be added.
+<!-- {{< spoiler text="What is the difference between lists and tuples?" >}}
 Lists
 
 - Lists are mutable - they can be changed
@@ -33,4 +35,4 @@ Tuples
 
 {{< spoiler text="Is Python case-sensitive?" >}}
 Yes
-{{< /spoiler >}}
+{{< /spoiler >}} -->

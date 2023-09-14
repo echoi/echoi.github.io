@@ -29,9 +29,9 @@ Through a term project, students will
 
 ## Topics
 
-- Continuum mechanics: [Introduction and kinematics](/uploads/Choi_etal_JGR_2013_DynEarthSol2D.pdf)
+- Continuum mechanics: [Introduction and kinematics](/uploads/geodynamics/ContinuumMechanics-Kinematics.pdf)
 <!--Fundamental {{<hl>}}Python programming skills{{</hl>}}-->
-- Continuum mechanics: Stress and balance laws
+- Continuum mechanics: [Stress](/uploads/geodynamics/ContinuumMechanics-Stress.pdf) and balance laws
 - Continuum mechanics: Constitutive equations, linear elasticity
 - Elastic bending of plates: Theory and geodynamic applications
 - Heat flow: The general form of transport equation, heat conduction and generation. Measuring heat flux, geotherms in mantle and continents
