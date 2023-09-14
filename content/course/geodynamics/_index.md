@@ -8,7 +8,7 @@ tags:
   - current
 ---
 
-{{< figure src="featured.jpg" >}}
+<!-- {{< figure src="featured.jpg" >}} -->
 
 {{< toc hide_on="xl" >}}
 ## Course Description
@@ -29,7 +29,7 @@ Through a term project, students will
 
 ## Topics
 
-- Continuum mechanics: Introduction and kinematics
+- Continuum mechanics: [Introduction and kinematics](/uploads/Choi_etal_JGR_2013_DynEarthSol2D.pdf)
 <!--Fundamental {{<hl>}}Python programming skills{{</hl>}}-->
 - Continuum mechanics: Stress and balance laws
 - Continuum mechanics: Constitutive equations, linear elasticity
