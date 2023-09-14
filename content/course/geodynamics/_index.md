@@ -48,6 +48,9 @@ Through a term project, students will
 - Rock rheology: Brittle and ductile deformation. Strength envelope
 - Rock rheology: Anderson theory of faulting and critical taper theory
 
+## Homework
+- [Homework 1 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework1.pdf)
+
 <!--
 ## Courses in this program
 
