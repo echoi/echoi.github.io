@@ -28,9 +28,8 @@ Through a term project, students will
 -gain scientific communication skills.
 
 ## Topics
-
-- Continuum mechanics: [Introduction and kinematics](/uploads/geodynamics/ContinuumMechanics-Kinematics.pdf)
 <!--Fundamental {{<hl>}}Python programming skills{{</hl>}}-->
+- Continuum mechanics: [Introduction and kinematics](/uploads/geodynamics/ContinuumMechanics-Kinematics.pdf)
 - Continuum mechanics: [Stress](/uploads/geodynamics/ContinuumMechanics-Stress.pdf) and balance laws
 - Continuum mechanics: Constitutive equations, linear elasticity
 - Elastic bending of plates: Theory and geodynamic applications
