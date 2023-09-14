@@ -1,5 +1,5 @@
 ---
-title: 📊 CERI 8353 Geodynamics
+title: CERI 8353 Geodynamics
 linkTitle: CERI Geodynamics
 summary: Fundamental topics in continnum mechanics and geodynamics.
 date: '2023-09-13'
@@ -44,10 +44,11 @@ Through a term project, students will
 - Rock rheology: Brittle and ductile deformation. Strength envelope
 - Rock rheology: Anderson theory of faulting and critical taper theory
 
+<!--
 ## Courses in this program
 
 {{< list_children >}}
-
+-->
 ## Meet your instructor
 
 {{< mention "admin" >}}
