@@ -30,8 +30,8 @@ Through a term project, students will
 ## Topics
 <!--Fundamental {{<hl>}}Python programming skills{{</hl>}}-->
 - Continuum mechanics: [Introduction and kinematics](/uploads/geodynamics/ContinuumMechanics-Kinematics.pdf)
-- Continuum mechanics: [Stress](/uploads/geodynamics/ContinuumMechanics-Stress.pdf) and balance laws
-- Continuum mechanics: Constitutive equations, linear elasticity
+- Continuum mechanics: [Stress](/uploads/geodynamics/ContinuumMechanics-Stress.pdf) and [balance laws](/uploads/geodynamics/ContinuumMechanics-BalanceLaws.pdf)
+- Continuum mechanics: [Constitutive equations, linear elasticity](/uploads/geodynamics/ContinuumMechanics-ConstitutiveRelation.pdf)
 - Elastic bending of plates: Theory and geodynamic applications
 - Heat flow: The general form of transport equation, heat conduction and generation. Measuring heat flux, geotherms in mantle and continents
 - Heat flow: Solutions to heat diffusion equation
