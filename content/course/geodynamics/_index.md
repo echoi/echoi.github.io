@@ -11,6 +11,11 @@ tags:
 <!-- {{< figure src="featured.jpg" >}} -->
 
 {{< toc hide_on="xl" >}}
+
+## Syllabus
+
+[Fall 2023 Syllabus](/uploads/geodynamics/CERI-7353-8353_Geodynamics_Syllabus_Fall2023.pdf)
+
 ## Course Description
 
 This course teaches principles in continuum mechanics necessary for understanding plate tectonics and geological phenomena. Major topics include the kinematics and balance laws of continnum, stress and strain in earth's crust, bending of the elastic part of the Earth, heat transfer in the Earth by conduction and convection, the rheology of rocks, and basic mechanics of faults.
