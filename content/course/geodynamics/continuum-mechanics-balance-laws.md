@@ -13,7 +13,7 @@ Continuum Kinematics
 
 ## Learn
 
-[Lecture slides](/uploads/geodynamics/ContinuumMechanics-Kinematics.pdf)
+[Lecture slides](/uploads/geodynamics/ContinuumMechanics-BalanceLaws.pdf)
 <!-- {{< youtube rfscVS0vtbw >}} -->
 
 ## Quiz
@@ -37,4 +37,4 @@ Tuples
 Yes
 {{< /spoiler >}} -->
 
-{{< cta cta_text="Next topic" cta_link="continuum-mechanics-stress" >}}
+{{< cta cta_text="Next topic" cta_link="continuum-mechanics-constitutive-relations" >}}

@@ -36,5 +36,3 @@ Tuples
 {{< spoiler text="Is Python case-sensitive?" >}}
 Yes
 {{< /spoiler >}} -->
-
-{{< cta cta_text="Next topic" cta_link="continuum-mechanics-stress" >}}
