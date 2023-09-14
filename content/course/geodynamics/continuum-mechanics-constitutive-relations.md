@@ -1,5 +1,5 @@
 ---
-title: Constitutive Relation - Linear Elasticity
+title: Continuum Mechanics 4 - Linear Elasticity
 date: '2023-09-13'
 type: book
 weight: 20

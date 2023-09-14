@@ -1,5 +1,5 @@
 ---
-title: Balance Laws in Continnum Mechanics 
+title: Continuum Mechanics 3 - Balance Laws
 date: '2023-09-13'
 type: book
 weight: 20

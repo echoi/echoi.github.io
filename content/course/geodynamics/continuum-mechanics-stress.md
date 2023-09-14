@@ -1,5 +1,5 @@
 ---
-title: Continnum Mechanics - Stress
+title: Continnum Mechanics 2 - Stress
 date: '2023-09-13'
 type: book
 weight: 20
