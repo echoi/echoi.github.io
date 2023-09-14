@@ -37,4 +37,4 @@ Tuples
 Yes
 {{< /spoiler >}} -->
 
-{{< cta cta_text="Next topic" cta_link="continuum-mechanics-constitutive-relations" >}}
+<!-- {{< cta cta_text="Next topic" cta_link="continuum-mechanics-constitutive-relations" >}} -->
