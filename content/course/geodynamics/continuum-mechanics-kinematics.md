@@ -1,5 +1,5 @@
 ---
-title: Continnum kinematics
+title: Continnum Mechanics 1 - Kinematics
 date: '2023-09-13'
 type: book
 weight: 20
