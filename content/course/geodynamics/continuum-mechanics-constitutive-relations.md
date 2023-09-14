@@ -1,5 +1,5 @@
 ---
-title: Continnum kinematics
+title: Constitutive Relation - Linear Elasticity
 date: '2023-09-13'
 type: book
 weight: 20
@@ -13,7 +13,7 @@ Continuum Kinematics
 
 ## Learn
 
-[Lecture slides](/uploads/geodynamics/ContinuumMechanics-Kinematics.pdf)
+[Lecture slides](/uploads/geodynamics/ContinuumMechanics-ConstitutiveRelation.pdf)
 <!-- {{< youtube rfscVS0vtbw >}} -->
 
 ## Quiz

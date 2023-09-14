@@ -1,5 +1,5 @@
 ---
-title: Continnum kinematics
+title: Balance Laws in Continnum Mechanics 
 date: '2023-09-13'
 type: book
 weight: 20
