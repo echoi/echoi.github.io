@@ -37,10 +37,8 @@ Through a term project, students will
 - Continuum mechanics: [Introduction and kinematics](/uploads/geodynamics/ContinuumMechanics-Kinematics.pdf)
 - Continuum mechanics: [Stress](/uploads/geodynamics/ContinuumMechanics-Stress.pdf) and [balance laws](/uploads/geodynamics/ContinuumMechanics-BalanceLaws.pdf)
 - Continuum mechanics: [Constitutive equations, linear elasticity](/uploads/geodynamics/ContinuumMechanics-ConstitutiveRelation.pdf)
-- Elastic bending of plates: Theory and geodynamic applications
 - Heat flow: The general form of transport equation, heat conduction and generation. Measuring heat flux, geotherms in mantle and continents
 - Heat flow: Solutions to heat diffusion equation
-- Gravity anomaly and isostasy
 - Fluid mechanics: Description of fluid motion, force balance in fluid and Stoke's equation
 - Fluid mechanics: 1D channel flows. Stream function for 2D flows
 - Fluid mechanics: Mantle convection and stability analysis
@@ -48,8 +46,14 @@ Through a term project, students will
 - Rock rheology: Brittle and ductile deformation. Strength envelope
 - Rock rheology: Anderson theory of faulting and critical taper theory
 
+If time permits
+
+- Elastic bending of plates: Theory and geodynamic applications
+- Gravity anomaly and isostasy
+
 ## Homework
 - [Homework 1 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework1.pdf)
+- Another homework continuum kinematics (TBA) instead of mini-lectures on elastic flexure
 
 <!--
 ## Courses in this program
