@@ -1,5 +1,5 @@
 ---
-title: Heat Trnasfer 1 - Heat Energy
+title: Heat Transfer 1 - Heat Energy
 date: '2023-09-24'
 type: book
 weight: 50
