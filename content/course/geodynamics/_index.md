@@ -37,8 +37,12 @@ Through a term project, students will
 - Continuum mechanics: [Introduction and kinematics](/uploads/geodynamics/ContinuumMechanics-Kinematics.pdf)
 - Continuum mechanics: [Stress](/uploads/geodynamics/ContinuumMechanics-Stress.pdf) and [balance laws](/uploads/geodynamics/ContinuumMechanics-BalanceLaws.pdf)
 - Continuum mechanics: [Constitutive equations, linear elasticity](/uploads/geodynamics/ContinuumMechanics-ConstitutiveRelation.pdf)
-- Heat flow: The general form of transport equation, heat conduction and generation. Measuring heat flux, geotherms in mantle and continents
-- Heat flow: Solutions to heat diffusion equation
+- Heat flow: The general form of transport equation, heat conduction and generation. Measuring heat flux, geotherms in mantle and continents. [Lecture slides](/uploads/geodynamics/HeatTransfer-HeatEnergy.pdf)
+- Heat flow: [Solutions to heat diffusion equation](/uploads/geodynamics/HeatTransfer-HeatConduction.pdf)
+  - [Bender and Orszag](/uploads/geodynamics/HeatTransfer-BenderOrszag.pdf)
+  - [Kevorkian](/uploads/geodynamics/HeatTransfer-Kevorkian.pdf)
+  - [Green's function approach to various heat conduction problems](/uploads/geodynamics/HeatTransfer-PDEPrimer.pdf)
+- Heat flow: [Geodynamic applications](/uploads/geodynamics/HeatTransfer-GeodynamicApplications.pdf)
 - Fluid mechanics: Description of fluid motion, force balance in fluid and Stoke's equation
 - Fluid mechanics: 1D channel flows. Stream function for 2D flows
 - Fluid mechanics: Mantle convection and stability analysis
