@@ -53,7 +53,7 @@ If time permits
 
 ## Homework
 - [Homework 1 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework1.pdf)
-- Another homework continuum kinematics (TBA) instead of mini-lectures on elastic flexure
+- [Homework 2 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework2.pdf)
 
 <!--
 ## Courses in this program
