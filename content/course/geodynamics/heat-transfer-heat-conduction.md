@@ -2,7 +2,7 @@
 title: Heat Trnasfer 2 - Heat Conduction
 date: '2023-09-24'
 type: book
-weight: 20
+weight: 60
 ---
 
 Heat Transfer 2 - Heat Conduction

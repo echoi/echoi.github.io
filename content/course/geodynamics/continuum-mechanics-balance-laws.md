@@ -2,7 +2,7 @@
 title: Continuum Mechanics 3 - Balance Laws
 date: '2023-09-13'
 type: book
-weight: 20
+weight: 30
 ---
 
 Continuum Kinematics

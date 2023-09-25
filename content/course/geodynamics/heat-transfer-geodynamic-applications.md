@@ -2,7 +2,7 @@
 title: Heat Trnasfer 3 - Geodynamic Applications
 date: '2023-09-24'
 type: book
-weight: 20
+weight: 70
 ---
 
 Heat Transfer 3 - Geodynamic Applications
