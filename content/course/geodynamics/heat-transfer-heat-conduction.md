@@ -14,9 +14,11 @@ Heat Transfer 2 - Heat Conduction
 ## Learn
 
 - [Lecture slides](/uploads/geodynamics/HeatTransfer-HeatConduction.pdf)
-- [Reference for ODE by Bender and Orszag](/uploads/geodynamics/HeatTransfer-BenderOrszag.pdf)
 - [Parabolic PDE Primer](/uploads/geodynamics/HeatTransfer-PDEPrimer.pdf)
+- [Jupyter notebook for the figures in the lecture slides](/uploads/geodynamics/Diffusion_Equation.ipynb)
+- [Reference for ODE by Bender and Orszag](/uploads/geodynamics/HeatTransfer-BenderOrszag.pdf)
 - [Reference by Kevorkian](/uploads/geodynamics/HeatTransfer-Kevorkian.pdf)
+
 <!-- {{< youtube rfscVS0vtbw >}} -->
 
 ## Quiz
