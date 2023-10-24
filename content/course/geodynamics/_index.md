@@ -2,7 +2,7 @@
 title: CERI 8353 Geodynamics
 linkTitle: CERI Geodynamics
 summary: Fundamental topics in continnum mechanics and geodynamics.
-date: '2023-09-13'
+date: '2023-10-24'
 type: book
 tags:
   - current
@@ -43,7 +43,7 @@ Through a term project, students will
   - [Kevorkian](/uploads/geodynamics/HeatTransfer-Kevorkian.pdf)
   - [Green's function approach to various heat conduction problems](/uploads/geodynamics/HeatTransfer-PDEPrimer.pdf)
 - Heat flow: [Geodynamic applications](/uploads/geodynamics/HeatTransfer-GeodynamicApplications.pdf)
-- Fluid mechanics: Description of fluid motion, force balance in fluid and Stoke's equation
+- Fluid mechanics [Basics](/uploads/geodynamics/FluidMechanics-Basics.pdf): Description of fluid motion, force balance in fluid and Stoke's equation
 - Fluid mechanics: 1D channel flows. Stream function for 2D flows
 - Fluid mechanics: Mantle convection and stability analysis
 - Rock rheology: Creep, atomic origin of elasticity and creep
@@ -58,6 +58,7 @@ If time permits
 ## Homework
 - [Homework 1 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework1.pdf)
 - [Homework 2 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework2.pdf)
+- [Homework 3 on heat transfer](/uploads/geodynamics/CERI8353_Geodynamics_homework3.pdf)
 
 <!--
 ## Courses in this program
