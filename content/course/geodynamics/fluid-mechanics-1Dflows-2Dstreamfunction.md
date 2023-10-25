@@ -2,7 +2,7 @@
 title: Fluid Mechanics 2 - 1D flows and 2D stream function
 date: '2023-10-25'
 type: book
-weight: 80
+weight: 90
 ---
 
 Fluid Mechanics 2 - 1D flows and 2D stream function
