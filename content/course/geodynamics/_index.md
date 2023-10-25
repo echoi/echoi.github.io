@@ -44,7 +44,7 @@ Through a term project, students will
   - [Green's function approach to various heat conduction problems](/uploads/geodynamics/HeatTransfer-PDEPrimer.pdf)
 - Heat flow: [Geodynamic applications](/uploads/geodynamics/HeatTransfer-GeodynamicApplications.pdf)
 - Fluid mechanics [Basics](/uploads/geodynamics/FluidMechanics-Basics.pdf): Description of fluid motion, force balance in fluid and Stoke's equation
-- Fluid mechanics: 1D channel flows. Stream function for 2D flows
+- Fluid mechanics: [1D channel flows. Stream function for 2D flows](/uploads/geodynamics/FluidMechanics-1DFlows-StreamFunction)
 - Fluid mechanics: Mantle convection and stability analysis
 - Rock rheology: Creep, atomic origin of elasticity and creep
 - Rock rheology: Brittle and ductile deformation. Strength envelope
