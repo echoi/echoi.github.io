@@ -47,8 +47,8 @@ Through a term project, students will
 - Fluid mechanics: [1D channel flows. Stream function for 2D flows](/uploads/geodynamics/FluidMechanics-1DFlows-StreamFunction.pdf)
 - Fluid mechanics: [Mantle convection and stability analysis](/uploads/geodynamics/FluidMechanics-ElementaryStabilityAnalysis.pdf)
 - Rock rheology: [Brittle and ductile deformation. Strength envelope](/uploads/geodynamics/Rheology-Brittle-Ductile-YSE.pdf)
-- Rock rheology: Atomic origin of elasticity and creep
-- Rock rheology: Anderson theory of faulting and critical taper theory
+- Rock rheology: [Anderson theory of faulting ](/uploads/geodynamics/Rheology-Faulting.pdf)
+- Rock rheology: [Critical taper theory](/uploads/geodynamics/Rheology-CritialTaper.pdf)
 
 If time permits
 
