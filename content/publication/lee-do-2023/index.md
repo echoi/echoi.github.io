@@ -12,7 +12,7 @@ publication_types:
 abstract: ''
 featured: true
 publication: '*Jouornal of Geophysical Research: Solid Earth*'
-url_pdf: "/uploads/Lee_etal_JGR_2013_Seamounts.pdf"
+url_pdf: "/uploads/Lee_etal_JGR_2023_Seamounts.pdf"
 doi: 10.1029/2023JB027551
 links:
 - name: EOS research spotlight
