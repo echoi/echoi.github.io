@@ -19,7 +19,5 @@ links:
   url: https://eos.org/research-spotlights/subducted-seamounts-may-lead-to-larger-earthquakes
 - name: Feature article on phys.org
   url: https://phys.org/news/2023-11-subducted-seamounts-larger-earthquakes.html
-- name: URL
-  url: https://academic.oup.com/gji/article/235/2/1639/7240737
 ---
 
