@@ -12,18 +12,21 @@ main:
     weight: 20
   - name: People
     url: 'people'
-    weight: 30    
+    weight: 30
+  - name: Gallery
+    url: '#gallery'
+    weight: 31
   - name: Projects
-    url: '#projects'
+    url: 'projects'
     weight: 40
   - name: Publications
-    url: '#publications'
+    url: 'publications'
     weight: 50
   - name: Courses
-    url: '#courses'
+    url: 'courses'
     weight: 55
   - name: Contact
-    url: '#contact'
+    url: 'contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
