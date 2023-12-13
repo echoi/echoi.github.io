@@ -3,7 +3,11 @@
 title: Eunseo Choi
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Eunseo Choi
+
+# Full Name (for SEO)
+first_name: Eunseo
+last_name: Choi
 
 # Status emoji
 #status:
@@ -122,6 +126,11 @@ email: "echoi2@memphis.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Principal Investigators
 ---
 
 Eunseo Choi is an associate professor of computational geodynamics at Center for Earthquake Research and Information (CERI) of The University of Memphis, Memphis, Tennessee, US. His research interests include long-term deformations in continental and oceanic lithosphere, seismotectonics, coupling of tectonic and surface processes and high-performance computing. He leads CERI's Geodynamics Research Group collaborating with colleagues in seismology and geology.

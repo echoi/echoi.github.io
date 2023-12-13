@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ryann C. Lam
+title: Hee Choi
 
-# Username (this should match the folder name)
-authors:
-- rclam
+# Full Name (for SEO)
+first_name: Hee
+last_name: Choi
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Center for Earthquake Research and Information
-  url: "https://memphis.edu/ceri/"
+- name: Penn State University
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -24,8 +23,8 @@ interests:
 
 education:
   courses:
-  - course: BSc in Geological Engineering
-    institution: University of Mississippi, Ole Miss
+  - course: MSc in Geophysics
+    institution: The University of Memphis
     year: 2019
 
 # Social/Academic Networking
@@ -35,8 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:rclam@memphis.edu"
-
+  link: "mailto:hxc5400@psu.edu"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -44,6 +42,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students 
+- Alumni
 
 ---

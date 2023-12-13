@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Arushi Saxena
+title: Xiaochuan Tian
 
-# Username (this should match the folder name)
-authors:
-- asaxena
+# Full Name (for SEO)
+first_name: Xiaochuan
+last_name: Tian
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,29 +14,30 @@ role: Post-doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Mathematical and Statistical Sciences at Clemson University
+- name: Boston University
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Seismotectonics
-- Computational geodynamics
 
 education:
   courses:
   - course: PhD in Geophysics
+    institution: Lamont-Doherty Earth Observatory of Columbia University
+    year: 2021
+  - course: MSc in Geophysics
     institution: The University of Memphis
-    year: 2020
-  
+    year: 2016
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: users
+- icon: envelope
   icon_pack: fas
-  link: http://www.ceri.memphis.edu/people/asaxena/
+  link: "mailto:x.tian@bc.edu" 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -44,6 +45,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni 
+- Alumni
 
 ---

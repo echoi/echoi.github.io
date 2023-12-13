@@ -105,32 +105,7 @@ sections:
         description: 
     design:
       columns: '2'
-  
-  - block: people
-    content:
-      title: 'Group Members'
-      subtitle: ''
-      text: ''
-      date_format: Jan 2006
-      count: 0
-      filters:
-        folders:
-          - people
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'          
+      
 #   - block: collection
 #     id: posts
 #     content:
