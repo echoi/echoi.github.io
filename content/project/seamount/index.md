@@ -4,6 +4,7 @@ title: 'Subducted seamounts are strong asperities'
 summary: The Daiichi-Kashima seamount subducted in the southern Japan trench is a strong asperity. Probably so are many other seamounts. Subducted seamounts functioning as a strong asperity can generate M7 earthquakes regularly (every ~20 years) and much larger tsunamigenic ones at a longer interval (100s of years).
 authors:
 - admin
+- slee29
 tags:
 - subduction
 - subducted seamount
@@ -25,7 +26,7 @@ external_link: ""
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 3
+  placement: 1
   caption: (left) Study area. (right) The inferred slip distributions of M7 "hang-up" earthquakes, the locations of other types of earthquakes, and the location of the Daiichi-Kashima seamount.
   focal_point: ""
   preview_only: false
