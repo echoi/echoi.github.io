@@ -17,7 +17,7 @@ main:
     url: '#gallery'
     weight: 31
   - name: Projects
-    url: 'projects'
+    url: '#projects'
     weight: 40
   - name: Publications
     url: 'publications'
