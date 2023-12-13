@@ -17,13 +17,13 @@ main:
     url: '#gallery'
     weight: 31
   - name: Projects
-    url: '#projects'
+    url: '#project'
     weight: 40
   - name: Publications
-    url: 'publications'
+    url: 'publication'
     weight: 50
   - name: Courses
-    url: 'courses'
+    url: 'course'
     weight: 55
   - name: Contact
     url: '#contact'
