@@ -53,7 +53,6 @@ sections:
   - block: experience
     content:
       title: Experience
-      username: admin
 #       # Date format for experience
 #       #   Refer to https://docs.hugoblox.com/customization/#date-format
 #       date_format: Jan 2006
@@ -62,30 +61,49 @@ sections:
 #       #   Required fields are `title`, `company`, and `date_start`.
 #       #   Leave `date_end` empty if it's your current employer.
 #       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-#       items:
-#         - title: CEO
-#           company: GenCoin
-#           company_url: ''
-#           company_logo: org-gc
-#           location: California
-#           date_start: '2021-01-01'
-#           date_end: ''
-#           description: |2-
-#               Responsibilities include:
+      items:
+      - title: Associate Professor
+        company: The University of Memphis
+        company_url: 'https://memphis.edu'
+        company_logo: 
+        location: Memphis, TN, USA
+        date_start: '2018-08-01'
+        date_end: ''
+        description: #|2-
+            # Responsibilities include:
+            
+            # * Analysing
+            # * Modelling
+            # * Deploying
 
-#               * Analysing
-#               * Modelling
-#               * Deploying
-#         - title: Professor of Semiconductor Physics
-#           company: University X
-#           company_url: ''
-#           company_logo: org-x
-#           location: California
-#           date_start: '2016-01-01'
-#           date_end: '2020-12-31'
-#           description: Taught electronic engineering and researched semiconductor physics.
-#     design:
-#       columns: '2'
+      - title: Assistant Professor
+        company: The University of Memphis
+        company_url: 'https://memphis.edu'
+        company_logo: 
+        location: Memphis, TN, USA
+        date_start: '2013-01-01'
+        date_end: '2018-07-31'
+        description: 
+
+      - title: Post-doctoral Researhcer
+        company: University of Texas Institute for Geophysics
+        company_url: 'https://www.ig.utexas.edu'
+        advisor: Luc L. Lavier
+        location: Austin, TX, USA
+        date_start: '2012-01-01'
+        date_end: '2012-12-31'
+        description: 
+
+      - title: Post-doctoral Researhcer
+        company: Lamont-Doherty Earth Observatory of the Columbia University
+        company_url: 'https://ldeo.columbia.edu'
+        advisor: W. Roger Buck
+        location: Palisades, NY, USA
+        date_start: '2008-10-01'
+        date_end: '2011-12-31'
+        description: 
+    design:
+      columns: '2'
 #   - block: accomplishments
 #     content:
 #       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
