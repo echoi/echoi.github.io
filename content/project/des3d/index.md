@@ -15,8 +15,8 @@ categories:
 - research, geodynamic code development
 
 date: ""
-lastmod: "2020-05-06"
-featured: false
+lastmod: "2023-12-13"
+featured: true
 draft: false
 
 # Optional external URL for project (replaces project detail page).
@@ -32,11 +32,11 @@ image:
   focal_point: ""
   preview_only: false
   
-links: ""
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/eunseochoi
+links:
+  - icon: github
+    icon_pack: fab
+    name: Follow
+    url: https://github.com/tan2/dynearthsol/
 url_code: ""
 url_pdf: ""
 url_slides: ""
