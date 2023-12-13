@@ -27,11 +27,11 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-image:
-  placement: 1
-  caption: Maximum shear strain field in South Korea derived from Post-Tohoku GNSS (Global Navigation Satellite System) data.
-  focal_point: ""
-  preview_only: false
+# image:
+#   placement: 1
+#   caption: 
+#   focal_point: ""
+#   preview_only: false
   
 links: ""
 #- icon: twitter
@@ -57,6 +57,7 @@ The 2011 Tohoku-Oki earthquake caused significant geodetically detectable
 surface deformations across Northeast Asia, enhancing seismic activity in
 the southern part of the Korean Peninsula (SKP). 
 
+![Figures from the past and current projects](/img/korea_gnss_srates.png)
 The GNSS data-based postseismic deformation rates
 show variations at scales of ≤ 100 kilometers, generally in agreement with
 regional seismicity. 
