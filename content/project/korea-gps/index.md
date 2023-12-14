@@ -27,11 +27,11 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-# image:
-#   placement: 1
-#   caption: 
-#   focal_point: ""
-#   preview_only: false
+image:
+  placement: 1
+  caption: Changes induced in South Korea by the 2011 Tohoku earthquake 
+  focal_point: ""
+  preview_only: false
   
 links: ""
 #- icon: twitter
