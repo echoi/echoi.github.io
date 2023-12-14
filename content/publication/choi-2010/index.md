@@ -3,7 +3,7 @@ title: "Constraints on shallow mantle viscosity from morphology and deformation 
 date: 2010-08-01
 publishDate: 2020-05-04T16:11:16.228090Z
 authors: ["E. Choi", "W. R. Buck"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: ""
 featured: false
 publication: "*Geophysical Research Letters*"

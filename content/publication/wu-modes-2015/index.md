@@ -3,7 +3,7 @@ title: "Modes of continental extension in a crustal wedge"
 date: 2015-01-01
 publishDate: 2020-05-04T16:11:16.153543Z
 authors: ["Guangliang Wu", "Luc L Lavier", "Eunseo Choi"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: ""
 featured: false
 publication: "*Earth and Planetary Science Letters*"

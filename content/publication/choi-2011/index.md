@@ -3,7 +3,7 @@ title: "One-sided transform basins and \"inverted curtains\": Implications for r
 date: 2011-01-01
 publishDate: 2020-05-04T16:11:16.239722Z
 authors: ["Eunseo Choi", "Leonardo Seeber", "Michael S. Steckler", "W. Roger Buck"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: ""
 featured: false
 publication: "*Tectonics*"

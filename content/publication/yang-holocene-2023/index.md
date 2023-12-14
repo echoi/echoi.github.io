@@ -15,8 +15,7 @@ authors:
 - Arum Jung
 - Chanhyeok Park
 - Chang-Pyo Jun
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: ''
 featured: false
 publication: '*Palaeogeography, Palaeoclimatology, Palaeoecology*'

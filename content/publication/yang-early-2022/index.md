@@ -35,8 +35,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-08-14T21:17:49.947331Z'
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: ''
 publication: '*Palaeogeography, Palaeoclimatology, Palaeoecology*'
 doi: 10.1016/j.palaeo.2022.111185

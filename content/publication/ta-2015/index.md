@@ -3,7 +3,7 @@ title: "Accelerating DynEarthSol3D on tightly coupled CPU–GPU heterogeneous pr
 date: 2015-01-01
 publishDate: 2020-05-04T16:11:16.163768Z
 authors: ["Tuan Ta", "Kyoshin Choo", "Eh Tan", "Byunghyun Jang", "Eunseo Choi"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: ""
 featured: false
 publication: "*Computers & Geosciences*"

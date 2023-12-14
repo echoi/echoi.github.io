@@ -3,7 +3,7 @@ title: "Making Coulomb angle-oriented shear bands in numerical tectonic models"
 date: 2015-07-01
 publishDate: 2020-05-04T16:11:16.341475Z
 authors: ["Eunseo Choi", "Kenni Dinesen Petersen"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: ""
 featured: false
 publication: "*Tectonophysics*"

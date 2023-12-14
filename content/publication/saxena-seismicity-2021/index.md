@@ -32,8 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-06-03T03:45:07.620806Z'
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: 'Sources of stress responsible for earthquakes occurring in the Central
   and Eastern United States (CEUS) include not only far-ﬁeld plate boundary forces
   but also various local contributions. In this study, we model stress ﬁelds due to

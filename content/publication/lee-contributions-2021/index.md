@@ -33,8 +33,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-01-12T22:09:15.277923Z'
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: Summary The Korean Peninsula (KP), located along the eastern margin of the
   Eurasian and Amurian plates, has experienced continual earthquakes from small to
   moderate magnitudes. Various models to explain these earthquakes have been proposed,

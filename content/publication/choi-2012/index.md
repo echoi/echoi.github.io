@@ -3,7 +3,7 @@ title: "Constraints on the strength of faults from the geometry of rider blocks 
 date: 2012-04-01
 publishDate: 2020-05-04T16:11:16.259522Z
 authors: ["Eunseo Choi", "W. Roger Buck"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: ""
 featured: false
 publication: "*Journal of Geophysical Research*"

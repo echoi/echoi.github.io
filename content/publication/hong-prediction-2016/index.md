@@ -3,7 +3,7 @@ title: "Prediction of ground motion and dynamic stress change in Baekdusan (Chan
 date: 2016-08-01
 publishDate: 2020-05-04T16:11:16.361860Z
 authors: ["Tae-Kyung Hong", "Eunseo Choi", "Seongjun Park", "Jin Soo Shin"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: ""
 featured: false
 publication: "*Scientific Reports*"

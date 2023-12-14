@@ -15,8 +15,7 @@ authors:
 - YoungHee Kim
 - Kwang-Hee Kim
 - Jin-Han Ree
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: ''
 featured: false
 publication: '*Geophysical Journal International*'

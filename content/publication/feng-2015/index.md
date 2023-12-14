@@ -3,7 +3,7 @@ title: "Spatial arrangement of décollements as a control on the development of 
 date: 2015-01-01
 publishDate: 2020-05-04T16:11:16.177188Z
 authors: ["Lian Feng", "Mervin J. Bartholomew", "Eunseo Choi"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: ""
 featured: false
 publication: "*Journal of Structural Geology*"
