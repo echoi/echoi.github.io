@@ -14,8 +14,7 @@ tags:
 
 ## Syllabus
 
-Spring 2024 Syllabus (TBA)
-<!-- [Spring 2024 Syllabus](/uploads/geodynamics/CERI-7353-8353_Geodynamics_Syllabus_Fall2023.pdf) -->
+[Spring 2024 Syllabus](/uploads/globalgeophysics/CERI7211-8211_GlobalGeophysics_Syllabus_2024.pdf)
 
 ## Course Description
 
