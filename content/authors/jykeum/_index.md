@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Geophysics
     institution: Kangwon National University, South Korea
-    year: 2022
+    year: 2023
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
