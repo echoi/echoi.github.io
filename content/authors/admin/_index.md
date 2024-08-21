@@ -17,7 +17,7 @@ last_name: Choi
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor of Geophysics
+role: Professor in Geophysics
 
 # Organizations/Affiliations to show in About widget
 organizations:
