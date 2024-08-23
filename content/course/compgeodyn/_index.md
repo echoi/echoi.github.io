@@ -110,27 +110,27 @@ for computational research.
 
 ## Course Outline
 
-- Week 1: [A short review of continuum mechanics](/uploads/geodynamics/ContinuumMechanicsReview.pdf)
+- Week 1: [A short review of continuum mechanics](/uploads/compgeodyn/ContinuumMechanicsReview.pdf)
 
-- Week 2: Numerical toolbox - [Principles of numerical mathematics](/uploads/geodynamics/Principles.ipynb)
+- Week 2: Numerical toolbox - [Principles of numerical mathematics](/uploads/compgeodyn/Principles.ipynb)
 
-- Week 3: Numerical toolbox - [Interpolation: Lagrange polynomial](/uploads/geodynamics/PiecewisePolynomialInterpolation.ipynb)
+- Week 3: Numerical toolbox - [Interpolation: Lagrange polynomial](/uploads/compgeodyn/PiecewisePolynomialInterpolation.ipynb)
 
-- Week 4: Numerical toolbox - [Interpolation: Piecewise Lagrange polynomal interpolation in 2D](/uploads/geodynamics/PiecewisePolynomialInterpolation.ipynb)
+- Week 4: Numerical toolbox - [Interpolation: Piecewise Lagrange polynomal interpolation in 2D](/uploads/compgeodyn/PiecewisePolynomialInterpolation.ipynb)
 
-- Week 5: Numerical toolbox - [Solving linear equations: Basic stability analysis and direct method](/uploads/geodynamics/LinearSystemSolvers.ipynb)
+- Week 5: Numerical toolbox - [Solving linear equations: Basic stability analysis and direct method](/uploads/compgeodyn/LinearSystemSolvers.ipynb)
 
-- Week 6: Numerical toolbox - [Solving linear equations: Iterative methods and conjugate gradient method](/uploads/geodynamics/LinearSystemSolvers.ipynb)
+- Week 6: Numerical toolbox - [Solving linear equations: Iterative methods and conjugate gradient method](/uploads/compgeodyn/LinearSystemSolvers.ipynb)
 
-- Week 7: Numerical toolbox - [Solving linear equations: Krylov subspace methods](/uploads/geodynamics/LinearSystemSolvers.ipynb). Solving non-linear systems
+- Week 7: Numerical toolbox - [Solving linear equations: Krylov subspace methods](/uploads/compgeodyn/LinearSystemSolvers.ipynb). Solving non-linear systems
 
-- Week 8: Numerical toolbox - [Approximating function derivatives: Finite difference and interpolation-based approach](/uploads/geodynamics/ApproximatingFunctionDerivatives.ipynb)
+- Week 8: Numerical toolbox - [Approximating function derivatives: Finite difference and interpolation-based approach](/uploads/compgeodyn/ApproximatingFunctionDerivatives.ipynb)
 
-- Week 9: Numerical toolbox - [Approximating function derivatives: Orthogonal polynomials and weight functions](/uploads/geodynamics/ApproximatingFunctionDerivatives.ipynb)
+- Week 9: Numerical toolbox - [Approximating function derivatives: Orthogonal polynomials and weight functions](/uploads/compgeodyn/ApproximatingFunctionDerivatives.ipynb)
 
-- Week 10: Numerical toolbox - [Numerical integration: Gauss and Gauss-Lobatto quadrature formula](/uploads/geodynamics/NumericalIntegration.ipynb)
+- Week 10: Numerical toolbox - [Numerical integration: Gauss and Gauss-Lobatto quadrature formula](/uploads/compgeodyn/NumericalIntegration.ipynb)
 
-- Week 11: Basic finite element method - [Examples of PDEs](/uploads/geodynamics/Examples_of_PDES.ipynb), [Weak forms and variational principles](/uploads/geodynamics/VariationalPrinciple_and_WeakForm.ipynb)
+- Week 11: Basic finite element method - [Examples of PDEs](/uploads/compgeodyn/Examples_of_PDES.ipynb), [Weak forms and variational principles](/uploads/compgeodyn/VariationalPrinciple_and_WeakForm.ipynb)
 
 - Week 12: Basic finite element method - Walkthrough with the Poisson
     eq. in 1D
@@ -147,9 +147,9 @@ for computational research.
 ## Homework
 
 To be added
-<!-- - [Homework 1 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework1.pdf)
-- [Homework 2 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework2.pdf)
-- [Homework 3 on heat transfer](/uploads/geodynamics/CERI8353_Geodynamics_homework3.pdf) -->
+<!-- - [Homework 1 on continuum kinematics](/uploads/compgeodyn/CERI8353_Geodynamics_homework1.pdf)
+- [Homework 2 on continuum kinematics](/uploads/compgeodyn/CERI8353_Geodynamics_homework2.pdf)
+- [Homework 3 on heat transfer](/uploads/compgeodyn/CERI8353_Geodynamics_homework3.pdf) -->
 
 <!--
 ## Courses in this program
