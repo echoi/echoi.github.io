@@ -79,17 +79,12 @@ University Press, Cambridge
 the command line-based work environment and other useful tools 
 for computational research.
 
-  - How to work on a Linux(-like) system especially when you are new
-        to it:\
-        <https://developer.ibm.com/technologies/linux/tutorials/>;\
-        search for tutorials with keywords "LPIC-1" and "exam 1"
+  - How to work on a Linux(-like) system especially when you are new to it: <https://developer.ibm.com/tutorials/l-lpic1-map/>
 
-    - Lessons on BASH, Python and Git by Software Carpentry:\
-        <https://software-carpentry.org/lessons/>
+  - Lessons on BASH, Python and Git by Software Carpentry: <https://software-carpentry.org/lessons/>
 
-    - Programming languages (C, Python, etc) and parallel computing
-        (OpenMP, MPI, GPU etc)\
-        <https://cvw.cac.cornell.edu/topics>
+  - Everything needed for using cyberinfrastructure, from programming languages to parallel computing: <https://support.access-ci.org/knowledge-base/resources>
+
 
 ## Term projects
 
