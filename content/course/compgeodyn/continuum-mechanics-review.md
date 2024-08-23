@@ -5,7 +5,7 @@ type: book
 weight: 10
 ---
 
-Continuum Kinematics
+Continuum Mechanics: Short Review
 
 <!--more-->
 
