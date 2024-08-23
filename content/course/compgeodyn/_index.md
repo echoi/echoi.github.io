@@ -162,12 +162,12 @@ To be added
 
 ## FAQs
 
-{{< spoiler text="Are there prerequisites?" >}}
+<!-- {{< spoiler text="Are there prerequisites?" >}}
 There are no prerequisites.
-{{< /spoiler >}}
+{{< /spoiler >}} -->
 
 <!-- {{< spoiler text="How often do the courses run?" >}}
 Designed for one 15-week semester, every otheryear. but Continuously, at your own pace.
 {{< /spoiler >}} -->
 
-{{< cta cta_text="Begin the course" cta_link="continuum-mechanics-kinematics" >}}
+{{< cta cta_text="Begin the course" cta_link="continuum-mechanics-review" >}}
