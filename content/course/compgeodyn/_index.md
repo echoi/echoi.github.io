@@ -43,11 +43,11 @@ used.\
 
 ### Reference texts[^1]
 
-[^1]: $^{\dagger}$ means that the UofM Library has an ebook version.
+[^1]: *means that the UofM Library has an ebook version.
 
 - Continuum mechanics:
 
-  - $^{\dagger}$ Tadmor, E. B., Elliott, R. S., and Miller, R. E. (2012). *Continuum Mechanics and Thermodynamics: From Fundamental Concepts to Governing Equations*. Cambridge University Press,
+  - *Tadmor, E. B., Elliott, R. S., and Miller, R. E. (2012). *Continuum Mechanics and Thermodynamics: From Fundamental Concepts to Governing Equations*. Cambridge University Press,
 Cambridge
   - Holzapfel, G. A. (2000). *Nonlinear solid mechanics : a continuum approach for engineering*.
 Wiley, Chichester ; New York
@@ -56,9 +56,9 @@ Upper Saddle River, New Jersey
 
 - Fundamental numerical techniques
 
-  - $^{\dagger}$ Quarteroni, A., Sacco, R., and Saleri, F. (2000). *Numerical Mathematics*. Springer-Verlag,
+  - *Quarteroni, A., Sacco, R., and Saleri, F. (2000). *Numerical Mathematics*. Springer-Verlag,
 New York
-  - $^{\dagger}$ Zienkiewicz, O. C., Zhu, J. Z., and Taylor, R. L. (2013). *The Finite Element Method: Its Basis
+  - *Zienkiewicz, O. C., Zhu, J. Z., and Taylor, R. L. (2013). *The Finite Element Method: Its Basis
 and Fundamentals*. Butterworth-Heinemann, 7th edition
   <!-- - $^{\dagger}$ Ismail-Zadeh, A. and Tackley, P. (2010). *Computational Methods for Geodynamics*. Cambridge University Press
   - $^{\dagger}$ Gerya, T. (2009). *Introduction to Numerical Geodynamic Modelling*. Cambridge University
@@ -68,7 +68,7 @@ Press, New York -->
 
   - Turcotte, D. L. and Schubert, G. (2002). *Geodynamics*. Cambridge University Press, New
 York, 2nd edition  
-  - $^{\dagger}$ Schubert, G., Turcotte, D. L., and Olson, P. (2001). *Mantle Convection in the Earth and
+  - *Schubert, G., Turcotte, D. L., and Olson, P. (2001). *Mantle Convection in the Earth and
 Planets*. Cambridge University Press, Cambridge
   - Davies, G. F. (1999). *Dynamic Earth: Plates, Plumes, and Mantle Convection*. Cambridge
 University Press, Cambridge  
