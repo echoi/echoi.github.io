@@ -60,10 +60,7 @@ Upper Saddle River, New Jersey
 New York
   - *Zienkiewicz, O. C., Zhu, J. Z., and Taylor, R. L. (2013). *The Finite Element Method: Its Basis
 and Fundamentals*. Butterworth-Heinemann, 7th edition
-  <!-- - $^{\dagger}$ Ismail-Zadeh, A. and Tackley, P. (2010). *Computational Methods for Geodynamics*. Cambridge University Press
-  - $^{\dagger}$ Gerya, T. (2009). *Introduction to Numerical Geodynamic Modelling*. Cambridge University
-Press, New York -->
-
+  
 - Geodynamics:
 
   - Turcotte, D. L. and Schubert, G. (2002). *Geodynamics*. Cambridge University Press, New
@@ -80,11 +77,9 @@ the command line-based work environment and other useful tools
 for computational research.
 
   - How to work on a Linux(-like) system especially when you are new to it: <https://developer.ibm.com/tutorials/l-lpic1-map/>
-
   - Lessons on BASH, Python and Git by Software Carpentry: <https://software-carpentry.org/lessons/>
-
+  - HPC carpentry: <https://www.hpc-carpentry.org/community-lessons/>
   - Everything needed for using cyberinfrastructure, from programming languages to parallel computing: <https://support.access-ci.org/knowledge-base/resources>
-
 
 ## Term projects
 
