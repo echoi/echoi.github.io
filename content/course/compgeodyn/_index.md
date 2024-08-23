@@ -45,6 +45,16 @@ used.\
 
 [^1]: *means that the UofM Library has an ebook version.
 
+- Fundamental numerical techniques (main reference)
+
+  - *Quarteroni, A., Sacco, R., & Saleri, F. (2007). [Numerical mathematics (2nd ed)](https://link-springer-com.ezproxy.memphis.edu/book/10.1007/b98885). Berlin: Springer.
+
+- Finite element method:
+  - *Zienkiewicz, O. C., Zhu, J. Z., and Taylor, R. L. (2013). *The Finite Element Method: Its Basis
+and Fundamentals*. Butterworth-Heinemann, 7th edition
+  - Belytschko, T., Liu, W. K., Moran, B., & Elkhodary, K. I. (2014). Nonlinear Finite Elements for Continua and Structures (2nd ed.). John Wiley & Sons, Ltd.
+  - Hughes, T. J. R. (2000). The Finite Element Method: Linear Static and Dynamic Finite Element Analysis (1st ed.). Dover Publications, Inc.
+
 - Continuum mechanics:
 
   - *Tadmor, E. B., Elliott, R. S., and Miller, R. E. (2012). *Continuum Mechanics and Thermodynamics: From Fundamental Concepts to Governing Equations*. Cambridge University Press,
@@ -54,21 +64,12 @@ Wiley, Chichester ; New York
   - Malvern, L. E. (1977). *Introduction to the Mechanics of a Continuous Medium*. Prentice-Hall,
 Upper Saddle River, New Jersey
 
-- Fundamental numerical techniques
-
-  - *Quarteroni, A., Sacco, R., and Saleri, F. (2000). *Numerical Mathematics*. Springer-Verlag,
-New York
-  - *Zienkiewicz, O. C., Zhu, J. Z., and Taylor, R. L. (2013). *The Finite Element Method: Its Basis
-and Fundamentals*. Butterworth-Heinemann, 7th edition
-  
 - Geodynamics:
 
-  - Turcotte, D. L. and Schubert, G. (2002). *Geodynamics*. Cambridge University Press, New
-York, 2nd edition  
   - *Schubert, G., Turcotte, D. L., and Olson, P. (2001). *Mantle Convection in the Earth and
 Planets*. Cambridge University Press, Cambridge
-  - Davies, G. F. (1999). *Dynamic Earth: Plates, Plumes, and Mantle Convection*. Cambridge
-University Press, Cambridge  
+  - Turcotte, D. L. and Schubert, G. (2002). *Geodynamics*. Cambridge University Press, New
+York, 2nd edition
 
 ### Online resources
 
