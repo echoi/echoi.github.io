@@ -113,25 +113,25 @@ for computational research.
 
 - Week 1: [A short review of continuum mechanics](/uploads/compgeodyn/ContinuumMechanicsReview.pdf)
 
-- Week 2: Numerical toolbox - [Principles of numerical mathematics](/uploads/compgeodyn/Principles.ipynb)
+- Week 2: Numerical toolbox - [Principles of numerical mathematics](https://github.com/echoi/compgeodyn/blob/master/Principles.ipynb)
 
-- Week 3: Numerical toolbox - [Interpolation: Lagrange polynomial](/uploads/compgeodyn/PiecewisePolynomialInterpolation.ipynb)
+- Week 3: Numerical toolbox - [Interpolation: Lagrange polynomial](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.ipynb)
 
-- Week 4: Numerical toolbox - [Interpolation: Piecewise Lagrange polynomal interpolation in 2D](/uploads/compgeodyn/PiecewisePolynomialInterpolation.ipynb)
+- Week 4: Numerical toolbox - [Interpolation: Piecewise Lagrange polynomal interpolation in 2D](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.ipynb)
 
-- Week 5: Numerical toolbox - [Solving linear equations: Basic stability analysis and direct method](/uploads/compgeodyn/LinearSystemSolvers.ipynb)
+- Week 5: Numerical toolbox - [Solving linear equations: Basic stability analysis and direct method](https://github.com/echoi/compgeodyn/blob/master/LinearSystemSolvers.ipynb)
 
-- Week 6: Numerical toolbox - [Solving linear equations: Iterative methods and conjugate gradient method](/uploads/compgeodyn/LinearSystemSolvers.ipynb)
+- Week 6: Numerical toolbox - [Solving linear equations: Iterative methods and conjugate gradient method](https://github.com/echoi/compgeodyn/blob/master/LinearSystemSolvers.ipynb)
 
-- Week 7: Numerical toolbox - [Solving linear equations: Krylov subspace methods](/uploads/compgeodyn/LinearSystemSolvers.ipynb). Solving non-linear systems
+- Week 7: Numerical toolbox - [Solving linear equations: Krylov subspace methods](https://github.com/echoi/compgeodyn/blob/master/LinearSystemSolvers.ipynb). Solving non-linear systems
 
-- Week 8: Numerical toolbox - [Approximating function derivatives: Finite difference and interpolation-based approach](/uploads/compgeodyn/ApproximatingFunctionDerivatives.ipynb)
+- Week 8: Numerical toolbox - [Approximating function derivatives: Finite difference and interpolation-based approach](https://github.com/echoi/compgeodyn/blob/master/ApproximatingFunctionDerivatives.ipynb)
 
-- Week 9: Numerical toolbox - [Approximating function derivatives: Orthogonal polynomials and weight functions](/uploads/compgeodyn/ApproximatingFunctionDerivatives.ipynb)
+- Week 9: Numerical toolbox - [Approximating function derivatives: Orthogonal polynomials and weight functions](https://github.com/echoi/compgeodyn/blob/master/ApproximatingFunctionDerivatives.ipynb)
 
-- Week 10: Numerical toolbox - [Numerical integration: Gauss and Gauss-Lobatto quadrature formula](/uploads/compgeodyn/NumericalIntegration.ipynb)
+- Week 10: Numerical toolbox - [Numerical integration: Gauss and Gauss-Lobatto quadrature formula](https://github.com/echoi/compgeodyn/blob/master/NumericalIntegration.ipynb)
 
-- Week 11: Basic finite element method - [Examples of PDEs](/uploads/compgeodyn/Examples_of_PDES.ipynb), [Weak forms and variational principles](/uploads/compgeodyn/VariationalPrinciple_and_WeakForm.ipynb)
+- Week 11: Basic finite element method - [Examples of PDEs](https://github.com/echoi/compgeodyn/blob/master/Examples_of_PDES.ipynb), [Weak forms and variational principles](https://github.com/echoi/compgeodyn/blob/master/VariationalPrinciple_and_WeakForm.ipynb)
 
 - Week 12: Basic finite element method - Walkthrough with the Poisson
     eq. in 1D
