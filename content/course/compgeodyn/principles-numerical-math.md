@@ -14,6 +14,8 @@ Principles of Numerical Mathematics: Short Review
 ## Learn
 
 [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/Principles.ipynb)
+
+Best viewed as [Rise](https://rise.readthedocs.io/en/latest/) slides on the Jupyter web interface.
 <!-- {{< youtube rfscVS0vtbw >}} -->
 
 ## Quiz
