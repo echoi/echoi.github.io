@@ -1,11 +1,11 @@
 ---
-title: Principles of Numerical Mathematics - Short Review
+title: Piecewise Polynomial Interpolation
 date: '2024-09-10'
 type: book
-weight: 20
+weight: 30
 ---
 
-Principles of Numerical Mathematics: Short Review
+Piecewise Polynomial Interpolation
 
 <!--more-->
 
@@ -13,8 +13,8 @@ Principles of Numerical Mathematics: Short Review
 
 ## Learn
 
-- [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/Principles.slides.html)
-- [Jupyter Notebook](https://github.com/echoi/compgeodyn/blob/master/Principles.ipynb)
+- [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.slides.html)
+- [Jupyter notebook](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.ipynb)
   - Best viewed as [Rise](https://rise.readthedocs.io/en/latest/) slides on the Jupyter web interface.
 <!-- {{< youtube rfscVS0vtbw >}} -->
 
@@ -39,4 +39,4 @@ Tuples
 Yes
 {{< /spoiler >}} -->
 
-{{< cta cta_text="Next topic" cta_link="piecewise-polynomial-interp" >}}
+<!-- {{< cta cta_text="Next topic" cta_link="continuum-mechanics-stress" >}} -->

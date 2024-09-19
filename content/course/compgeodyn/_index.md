@@ -2,7 +2,7 @@
 title: CERI 8315 Computational Methods for Geodynamics
 linkTitle: CERI CompGeodyn
 summary: Basic theory and practicals of the finite element method, with applications for modeling geodynamic processes.
-date: '2024-08-23'
+date: '2024-09-19'
 type: book
 tags:
   - current
@@ -113,11 +113,11 @@ for computational research.
 
 - Week 1: [A short review of continuum mechanics](/uploads/compgeodyn/ContinuumMechanicsReview.pdf)
 
-- Week 2: Numerical toolbox - [Principles of numerical mathematics](https://github.com/echoi/compgeodyn/blob/master/Principles.ipynb)
+- Week 2: Numerical toolbox - [Principles of numerical mathematics](https://github.com/echoi/compgeodyn/blob/master/Principles.ipynb) [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/Principles.slides.html)
 
-- Week 3: Numerical toolbox - [Interpolation: Lagrange polynomial](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.ipynb)
+- Week 3: Numerical toolbox - [Interpolation: Lagrange polynomial](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.ipynb) [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.slides.html)
 
-- Week 4: Numerical toolbox - [Interpolation: Piecewise Lagrange polynomal interpolation in 2D](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.ipynb)
+- Week 4: Numerical toolbox - [Interpolation: Piecewise Lagrange polynomal interpolation in 2D](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.ipynb) [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.slides.html)
 
 - Week 5: Numerical toolbox - [Solving linear equations: Basic stability analysis and direct method](https://github.com/echoi/compgeodyn/blob/master/LinearSystemSolvers.ipynb)
 
