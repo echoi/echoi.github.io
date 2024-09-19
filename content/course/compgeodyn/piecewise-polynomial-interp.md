@@ -14,6 +14,7 @@ Piecewise Polynomial Interpolation
 ## Learn
 
 - [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.slides.html)
+  - Download and view it on a web browser.
 - [Jupyter notebook](https://github.com/echoi/compgeodyn/blob/master/PiecewisePolynomialInterpolation.ipynb)
   - Best viewed as [Rise](https://rise.readthedocs.io/en/latest/) slides on the Jupyter web interface.
 <!-- {{< youtube rfscVS0vtbw >}} -->

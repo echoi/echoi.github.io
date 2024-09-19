@@ -14,6 +14,7 @@ Principles of Numerical Mathematics: Short Review
 ## Learn
 
 - [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/Principles.slides.html)
+  - Download and view it on a web browser.
 - [Jupyter Notebook](https://github.com/echoi/compgeodyn/blob/master/Principles.ipynb)
   - Best viewed as [Rise](https://rise.readthedocs.io/en/latest/) slides on the Jupyter web interface.
 <!-- {{< youtube rfscVS0vtbw >}} -->
@@ -39,4 +40,4 @@ Tuples
 Yes
 {{< /spoiler >}} -->
 
-{{< cta cta_text="Next topic" cta_link="piecewise-polynomial-interp" >}}
+<!-- {{< cta cta_text="Next topic" cta_link="piecewise-polynomial-interp" >}} -->
