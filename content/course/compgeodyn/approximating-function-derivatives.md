@@ -1,11 +1,11 @@
 ---
-title: Linear System Solvers
-date: '2024-10-03'
+title: Approximating function derivatives
+date: '2024-10-08'
 type: book
-weight: 40
+weight: 50
 ---
 
-Linear System Solvers
+Approximating function derivatives
 
 <!--more-->
 
@@ -13,12 +13,10 @@ Linear System Solvers
 
 ## Learn
 
-- [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/LinearSystemSolvers.slides.html)
+- [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/ApproximatingFunctionDerivatives.slides.html)
   - Download and view it on a web browser.
-- [Jupyter notebook](https://github.com/echoi/compgeodyn/blob/master/LinearSystemSolvers.ipynb)
+- [Jupyter notebook](https://github.com/echoi/compgeodyn/blob/master/ApproximatingFunctionDerivatives.ipynb)
   - Best viewed as [Rise](https://rise.readthedocs.io/en/latest/) slides on the Jupyter web interface.
-- [Gradient method vs. conjugate gradient method](https://github.com/echoi/compgeodyn/blob/master/GM_vs_CGM.ipynb)
-   
 <!-- {{< youtube rfscVS0vtbw >}} -->
 
 ## Quiz
