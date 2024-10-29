@@ -17,6 +17,8 @@ Principles of Numerical Mathematics: Short Review
   - Download and view it on a web browser.
 - [Jupyter Notebook](https://github.com/echoi/compgeodyn/blob/master/Principles.ipynb)
   - Best viewed as [Rise](https://rise.readthedocs.io/en/latest/) slides on the Jupyter web interface.
+  <a target="_blank" href="https://colab.research.google.com/github/echoi/compgeodyn/blob/master/Principles.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 <!-- {{< youtube rfscVS0vtbw >}} -->
 
 ## Quiz

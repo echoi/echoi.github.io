@@ -16,8 +16,10 @@ Linear System Solvers
 - [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/LinearSystemSolvers.slides.html)
   - Download and view it on a web browser.
 - [Jupyter notebook](https://github.com/echoi/compgeodyn/blob/master/LinearSystemSolvers.ipynb)
-  - Best viewed as [Rise](https://rise.readthedocs.io/en/latest/) slides on the Jupyter web interface.
-- [Gradient method vs. conjugate gradient method](https://github.com/echoi/compgeodyn/blob/master/GM_vs_CGM.ipynb)
+  - Best viewed as [Rise](https://rise.readthedocs.io/en/latest/) slides on the Jupyter web interface. <a target="_blank" href="https://colab.research.google.com/github/echoi/compgeodyn/blob/master/LinearSystemSolvers.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+- [Gradient method vs. conjugate gradient method](https://github.com/echoi/compgeodyn/blob/master/GM_vs_CGM.ipynb) <a target="_blank" href="https://colab.research.google.com/github/echoi/compgeodyn/blob/master/GM_vs_CGM.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    
 <!-- {{< youtube rfscVS0vtbw >}} -->
 

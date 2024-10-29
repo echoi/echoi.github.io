@@ -14,7 +14,7 @@ Variational Principle and Weak Form
 ## Learn
 
 - [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/VariationalPrinciple_and_WeakForm.ipynb)
-  - Download and view it on Jupyter Notebook or JupyterLab. <a target="_blank" href="https://colab.research.google.com/github/echoi/compgeodyn/blob/master/NumericalIntegration.ipynb">
+  - Download and view it on Jupyter Notebook or JupyterLab. <a target="_blank" href="https://colab.research.google.com/github/echoi/compgeodyn/blob/master/VariationalPrinciple_and_WeakForm.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <!-- {{< youtube rfscVS0vtbw >}} -->
