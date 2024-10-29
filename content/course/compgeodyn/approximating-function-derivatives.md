@@ -16,7 +16,8 @@ Approximating function derivatives
 - [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/ApproximatingFunctionDerivatives.slides.html)
   - Download and view it on a web browser.
 - [Jupyter notebook](https://github.com/echoi/compgeodyn/blob/master/ApproximatingFunctionDerivatives.ipynb)
-  - Best viewed as [Rise](https://rise.readthedocs.io/en/latest/) slides on the Jupyter web interface.
+  - Best viewed as [Rise](https://rise.readthedocs.io/en/latest/) slides on the Jupyter web interface. <a target="_blank" href="https://colab.research.google.com/github/echoi/compgeodyn/blob/master/ApproximatingFunctionDerivatives.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 <!-- {{< youtube rfscVS0vtbw >}} -->
 
 ## Quiz
