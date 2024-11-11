@@ -131,10 +131,9 @@ for computational research.
 
 - Week 10: Numerical toolbox - [Numerical integration: Gauss and Gauss-Lobatto quadrature formula](https://github.com/echoi/compgeodyn/blob/master/NumericalIntegration.ipynb)
 
-- Week 11: Basic finite element method - [Examples of PDEs](https://github.com/echoi/compgeodyn/blob/master/Examples_of_PDES.ipynb), [Weak forms and variational principles](https://github.com/echoi/compgeodyn/blob/master/VariationalPrinciple_and_WeakForm.ipynb)
+- Week 11: Basic finite element method - [Examples of PDEs](https://github.com/echoi/compgeodyn/blob/master/Examples_of_PDES.ipynb), [Weak forms and variational principles](https://github.com/echoi/compgeodyn/blob/master/VariationalPrinciple_and_WeakForm.ipynb), [Approximate solution to a weak form](https://github.com/echoi/compgeodyn/blob/master/Approximate_Solution_to_WeakForm.ipynb)
 
-- Week 12: Basic finite element method - Walkthrough with the Poisson
-    eq. in 1D
+- Week 12: Basic finite element method - [Walkthrough with 1D Poisson Equation](https://github.com/echoi/compgeodyn/blob/master/Solving_1D_Poisson_Equation_with_FEM.ipynb)
 
 - Week 13: Basic finite element method - Extension to 2D and 3D
 

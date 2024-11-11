@@ -1,6 +1,6 @@
 ---
 title: Variational Principle and Weak Form
-date: '2024-10-29'
+date: '2024-11-11'
 type: book
 weight: 70
 ---
@@ -13,8 +13,14 @@ Variational Principle and Weak Form
 
 ## Learn
 
-- [Lecture slides](https://github.com/echoi/compgeodyn/blob/master/VariationalPrinciple_and_WeakForm.ipynb)
-  - Download and view it on Jupyter Notebook or JupyterLab. <a target="_blank" href="https://colab.research.google.com/github/echoi/compgeodyn/blob/master/VariationalPrinciple_and_WeakForm.ipynb">
+- [Lecture slides on variational principles and weak form](https://github.com/echoi/compgeodyn/blob/master/VariationalPrinciple_and_WeakForm.ipynb)
+  - Download and view it on Jupyter Notebook or JupyterLab. 
+  - Or run it on Google Colab: <a target="_blank" href="https://colab.research.google.com/github/echoi/compgeodyn/blob/master/VariationalPrinciple_and_WeakForm.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+- [Lecture slides on approximate solutions to a weak form](https://github.com/echoi/compgeodyn/blob/master/Approximate_Solution_to_WeakForm.ipynb)
+  - Download and view it on Jupyter Notebook or JupyterLab. <a target="_blank" href="https://colab.research.google.com/github/echoi/compgeodyn/blob/master/Approximate_Solution_to_WeakForm.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <!-- {{< youtube rfscVS0vtbw >}} -->
