@@ -1,11 +1,11 @@
 ---
-title: Walkthrough with 1D Poisson Eq.
-date: '2024-11-11'
+title: Walkthrough with 2D Poisson Eq.
+date: '2024-12-02'
 type: book
-weight: 80
+weight: 90
 ---
 
-Basic Finite Element Procedure: Walkthrough with 1D Poisson Equation
+Basic Finite Element Procedure: Walkthrough with 2D Poisson Equation
 
 <!--more-->
 
@@ -13,10 +13,10 @@ Basic Finite Element Procedure: Walkthrough with 1D Poisson Equation
 
 ## Learn
 
-- Lecture slides as a [Jupyter notebook](https://github.com/echoi/compgeodyn/blob/master/Solving_1D_Poisson_Equation_with_FEM.ipynb)
+- Lecture slides as a [Jupyter notebook](https://github.com/echoi/compgeodyn/blob/master/Solving_2D_Poisson_Equation_with_FEM.ipynb)
     - Download and view it on Jupyter Notebook or JupyterLab. 
     - Or run it on Google Colab:
-<a target="_blank" href="https://colab.research.google.com/github/echoi/compgeodyn/blob/master/Solving_1D_Poisson_Equation_with_FEM.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/echoi/compgeodyn/blob/master/Solving_2D_Poisson_Equation_with_FEM.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
