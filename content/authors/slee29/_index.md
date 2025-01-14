@@ -10,11 +10,11 @@ last_name: Lee
 superuser: false
 
 # Role/position
-role: Post-doctoral Researcher
+role: Senior Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Center for Earthquake Research and Information, University of Memphis
+- name: Korea Institute of Geoscience and Mineral Resources
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:slee29@memphis.edu" 
+  link: "mailto:slee91@kigam.re.kr" 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -44,6 +44,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 
 ---

@@ -10,11 +10,11 @@ last_name: Saxena
 superuser: false
 
 # Role/position
-role: Post-doctoral Researcher
+role: Staff Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Mathematical and Statistical Sciences at Clemson University
+- name: Computational Infrastructure for Geodynamics, UC Davis
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

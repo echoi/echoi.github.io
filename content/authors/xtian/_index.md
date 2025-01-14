@@ -10,11 +10,11 @@ last_name: Tian
 superuser: false
 
 # Role/position
-role: Post-doctoral Researcher
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Boston University
+- name: University of California, Davis
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:x.tian@bc.edu" 
+  link: "mailto:equtian@ucdavis.edu" 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
