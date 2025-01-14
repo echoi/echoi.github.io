@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:arushi@clemson.edu"
+  link: "mailto:ahsaxena@ucdavis.edu"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

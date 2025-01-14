@@ -26,55 +26,63 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="399.5"
-     inkscape:cy="265.5"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     showgrid="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="410.12193"
+     inkscape:cy="269.40768"
+     inkscape:window-width="1280"
+     inkscape:window-height="730"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid648"
+       empspacing="4" />
+  </sodipodi:namedview>
   <defs
      id="defs2" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="path424"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41111"
-       d="m 36.583468,50.376668 -35.87791298,-2e-6 V 22.86 v 0 l 28.50471898,1e-6"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       id="path429"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41111"
-       d="M 50.762444,104.56333 H 0.70555502 v -27.516663 0 H 43.389252"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       id="path415"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41111"
-       d="M 93.664563,77.046667 H 134.93749 V 104.56333 H 86.29137"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path412"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41111"
-       d="m 107.84354,22.86 h 27.09395 v 27.516666 h -34.46714"
-       sodipodi:nodetypes="cccc" />
     <g
        id="rect184" />
     <g
        id="path422" />
     <g
-       id="path432" />
+       id="path432"
+       style="display:inline" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41111"
-       d="m 39.176247,35.56 7.373193,27.516667 43.954935,-2e-6 7.373194,-27.516666 z"
-       id="path562" />
+       id="rect646"
+       style="fill:#000000;stroke-width:2.53976;stop-color:#000000"
+       d="M 54.510927,29.633333 0,29.633333 V 0 h 46.566667"
+       sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41111"
-       d="m 53.355224,89.746665 7.373191,27.516665 H 76.325396 L 83.69859,89.746665 Z"
-       id="path564" />
+       id="path639"
+       style="fill:#000000;stroke-width:2.53976;stop-color:#000000"
+       d="m 55.033333,4.2333333 80.433337,0 V 38.099999 l -71.35842,0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="rect1931"
+       style="fill:#000000;stroke-width:2.53976;stop-color:#000000"
+       d="M 67.733333,80.433333 H 0 V 46.566667 l 59.266667,0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path642"
+       style="fill:#000000;stroke-width:2.53976;stop-color:#000000"
+       d="m 67.733333,55.033333 67.733337,3e-6 V 88.9 l -58.658945,-3e-6"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="rect1933"
+       style="fill:#000000;stroke-width:2.53976;stop-color:#000000"
+       d="M 80.433333,131.23333 H -0.28743673 v -33.866654 0 l 72.25410373,-9e-6"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path645"
+       style="fill:#000000;stroke-width:2.53976;stop-color:#000000"
+       d="m 80.80751,105.83333 54.65916,1e-5 v 29.63333 H 88.9"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
