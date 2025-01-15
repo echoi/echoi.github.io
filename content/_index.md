@@ -32,13 +32,21 @@ sections:
 #       #   Leave `date_end` empty if it's your current employer.
 #       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      - title: Professor
+        company: The University of Memphis
+        company_url: 'https://memphis.edu'
+        company_logo: 
+        location: Memphis, TN, USA
+        date_start: '2024-09-01'
+        date_end: ''
+
       - title: Associate Professor
         company: The University of Memphis
         company_url: 'https://memphis.edu'
         company_logo: 
         location: Memphis, TN, USA
         date_start: '2018-08-01'
-        date_end: ''
+        date_end: '2024-08-31'
         description: #|2-
             # Responsibilities include:
             
@@ -55,7 +63,7 @@ sections:
         date_end: '2018-07-31'
         description: 
 
-      - title: Post-doctoral Researhcer
+      - title: Post-doctoral Researcher
         company: University of Texas Institute for Geophysics
         company_url: 'https://www.ig.utexas.edu'
         advisor: Luc L. Lavier
@@ -64,7 +72,7 @@ sections:
         date_end: '2012-12-31'
         description: 
 
-      - title: Post-doctoral Researhcer
+      - title: Post-doctoral Researcher
         company: Lamont-Doherty Earth Observatory of the Columbia University
         company_url: 'https://ldeo.columbia.edu'
         advisor: W. Roger Buck
