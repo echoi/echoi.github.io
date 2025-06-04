@@ -167,7 +167,7 @@ sections:
       address:
         street: 3890 Central Ave
         city: Memphis
-        region: TA
+        region: TN
         postcode: '38152'
         country: United States
         country_code: US
