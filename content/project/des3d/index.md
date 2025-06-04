@@ -4,11 +4,11 @@ weight: 40
 #subtitle: ''
 summary: Aims to improve DES3D (Dynamic Earth Solver in 3D), an open-source geodynamic modeling code by extending the code's functionality and accelerating its performance.
 authors:
-# - admin
-- icon: people
-  icon_pack: fab
-  name: GeoFLAC developers
-  url: https://github.com/orgs/GeoFLAC/people
+- admin
+# - icon: people
+#   icon_pack: fab
+#   name: GeoFLAC developers
+#   url: https://github.com/orgs/GeoFLAC/people
 tags:
 - DES3D
 - High-Performance Computing
