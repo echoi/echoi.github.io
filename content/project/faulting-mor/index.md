@@ -1,5 +1,6 @@
 ---
 title: 'Faulting at Mid-Ocean Ridge'
+weight: 50
 subtitle: 'How faulting styles changes along ridge axis'
 summary: Aims to understand how faulting styles change in time and along mid-ocean ridge axis using numerical modeling. 
 authors:

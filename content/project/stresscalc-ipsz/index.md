@@ -1,5 +1,6 @@
 ---
 title: 'Sources of Stress in Intraplate Seismic Zones'
+weight: 10
 #subtitle: ''
 summary: Aims to estimate the magnitude of stress relevant to earthquake generation for intraplte seismic zones
 authors:
@@ -17,7 +18,7 @@ categories:
 
 date: ""
 lastmod: "2022-01-15"
-featured: false
+featured: true
 draft: false
 
 # Optional external URL for project (replaces project detail page).

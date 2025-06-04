@@ -1,5 +1,6 @@
 ---
 title: 'Effects of thermal strain on tectonic processes'
+weight: 60
 # subtitle: ''
 summary: Aims to understand what thermally-induced volume changes of rocks do to long-term tectonic processes using numerical modeling.
 authors:
