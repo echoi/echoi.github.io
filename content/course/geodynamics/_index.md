@@ -55,10 +55,10 @@ If time permits
 - Elastic bending of plates: Theory and geodynamic applications
 - Gravity anomaly and isostasy
 
-## Homework
+<!-- ## Homework
 - [Homework 1 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework1.pdf)
 - [Homework 2 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework2.pdf)
-- [Homework 3 on heat transfer](/uploads/geodynamics/CERI8353_Geodynamics_homework3.pdf)
+- [Homework 3 on heat transfer](/uploads/geodynamics/CERI8353_Geodynamics_homework3.pdf) -->
 
 <!--
 ## Courses in this program
