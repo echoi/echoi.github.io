@@ -12,9 +12,9 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## Syllabus
+<!-- ## Syllabus
 
-[Fall 2023 Syllabus](/uploads/geodynamics/CERI-7353-8353_Geodynamics_Syllabus_Fall2023.pdf)
+[Fall 2023 Syllabus](/uploads/geodynamics/CERI-7353-8353_Geodynamics_Syllabus_Fall2023.pdf) -->
 
 ## Course Description
 
