@@ -2,7 +2,7 @@
 title: CERI 8353 Geodynamics
 linkTitle: CERI Geodynamics
 summary: Fundamental topics in continnum mechanics and geodynamics.
-date: '2023-10-24'
+date: '2025-08-28'
 type: book
 tags:
   - current
@@ -11,10 +11,6 @@ tags:
 <!-- {{< figure src="featured.jpg" >}} -->
 
 {{< toc hide_on="xl" >}}
-
-<!-- ## Syllabus
-
-[Fall 2023 Syllabus](/uploads/geodynamics/CERI-7353-8353_Geodynamics_Syllabus_Fall2023.pdf) -->
 
 ## Course Description
 
@@ -49,16 +45,8 @@ Through a term project, students will
 - Rock rheology: [Brittle and ductile deformation. Strength envelope](/uploads/geodynamics/Rheology-Brittle-Ductile-YSE.pdf)
 - Rock rheology: [Anderson theory of faulting ](/uploads/geodynamics/Rheology-Faulting.pdf)
 - Rock rheology: [Critical taper theory](/uploads/geodynamics/Rheology-CritialTaper.pdf)
-
-If time permits
-
 - Elastic bending of plates: Theory and geodynamic applications
 - Gravity anomaly and isostasy
-
-<!-- ## Homework
-- [Homework 1 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework1.pdf)
-- [Homework 2 on continuum kinematics](/uploads/geodynamics/CERI8353_Geodynamics_homework2.pdf)
-- [Homework 3 on heat transfer](/uploads/geodynamics/CERI8353_Geodynamics_homework3.pdf) -->
 
 <!--
 ## Courses in this program
