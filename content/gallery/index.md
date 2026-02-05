@@ -1,7 +1,7 @@
 ---
 title: Gallery
 date: 2024-02-05
-type: book
+type: page
 ---
 
 {{< gallery album="cerigeodyn" >}}
