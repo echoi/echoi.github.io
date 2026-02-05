@@ -14,11 +14,14 @@ main:
     url: 'people'
     weight: 30
   - name: Gallery
-    url: '#gallery'
+    url: 'gallery'
     weight: 31
   - name: Projects
     url: '#projects'
     weight: 40
+  - name: News
+    url: '#featured'
+    weight: 45
   - name: Publications
     url: 'publication'
     weight: 50

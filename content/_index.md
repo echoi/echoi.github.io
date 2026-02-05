@@ -82,15 +82,15 @@ sections:
         description: 
     design:
       columns: '2'
-  - block: markdown
-    id: gallery
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="cerigeodyn" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   id: gallery
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="cerigeodyn" >}}
+  #   design:
+  #     columns: '1'
   - block: portfolio
     id: projects
     content:
@@ -117,9 +117,10 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: News
       filters:
         folders:
+          - news
           - publication
         featured_only: true
     design:
