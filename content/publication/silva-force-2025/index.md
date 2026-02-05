@@ -33,5 +33,11 @@ publication_types: ["article-journal"]
 abstract: 'The complex evolution of continental rift systems results from the intricate interplay of external driving forces and the rift system’s responses. For this reason, allowing plate kinematics to emerge from the force balance can provide deeper insights than imposing prescribed velocity boundary conditions. This study investigates the influence of temporally varying driving forces, possibly resulting from changes in slab dynamics, on rift evolution using numerical and semi-analytical models. We examined the effects of varying the timing ($t_i$), duration ($\delta t$), and magnitude ($\delta \tau$) of boundary traction reductions on extension velocities ($V_{E}$). Our models demonstrate that later initiation of traction reduction and slower reduction rates promote continental breakup. A 25% reduction in boundary traction can still lead to continental breakup under optimal conditions, while a 50% reduction generally results in failed rifts. Non-monotonic evolution, including temporary velocity increases during force reduction, is observed and explained by dynamic force balance. Our results show that a continental rift can accelerate towards breakup even when it is currently extending slowly due to a reduced driving force that can arise from many different situations.'
 publication: '*Scientific Reports*'
 url_pdf: "/uploads/Silva_et_al-2025-Scientific_Reports.pdf"
-doi: 
+doi: 10.1038/s41598-025-19691-3
+links:
+- name: TACC News
+  url: https://tacc.utexas.edu/news/latest-news/2026/02/04/when-continents-try-and-fail-to-break-apart/
+- name: AAAS Eureka Alert!
+  url: https://www.eurekalert.org/news-releases/1115358
+
 ---
