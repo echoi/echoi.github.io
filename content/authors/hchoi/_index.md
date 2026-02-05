@@ -10,7 +10,7 @@ last_name: Choi
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
