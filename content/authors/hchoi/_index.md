@@ -10,11 +10,11 @@ last_name: Choi
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Penn State University
+- name: Georgia Tech
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -23,6 +23,10 @@ interests:
 
 education:
   courses:
+  - course: PhD in Geophysics
+    institution: Penn State
+    year: 2025
+
   - course: MSc in Geophysics
     institution: The University of Memphis
     year: 2019
@@ -34,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:hxc5400@psu.edu"
+  link: "mailto:hchoi342@gatech.edu"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
