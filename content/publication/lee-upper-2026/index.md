@@ -1,26 +1,27 @@
 ---
-title: 'Viscoelastic modelling reveals correlation between GNSS-derived deformation rates after the 2011 Tohoku-Oki earthquake and lithospheric thickness in the southern Korean Peninsula'
-date: '2025-05-13'
+title: 'Upper Mantle Heterogeneity and Weak Subduction Boundaries Control Crustal Stress in the Korean Peninsula'
+date: '2026-03-16'
 draft: false
 image:
-  caption: 'True post-seismic (TPS) (A–E) principal strain rate orientations, (F–J) dilation rates (1/yr) and (K–O) maximum shear strain rates (1/yr). The red dashed lines demarcates the major tectonic units in the SKP.'
+  caption: 'Spatial distribution of strain rate at a depth of 25 km in the Korean Peninsula for representative model cases: (a) PA + PS (base case), (b) PS-only, (c) no-boundary (NP) case. Red circles indicate the distribution of earthquakes with magnitudes ≥3.5 from the Korea Meteorological Administration catalog (1978–2024). Geographic references–KP: Korean Peninsula, WS: West Sea (YS: Yellow Sea), ES: East Sea (JS: Sea of Japan), and JI: Jeju Island.'
   focal_point: ''
   preview_only: false
 
-publishDate: '2025-05-13'
+publishDate: '2026-03-16'
 authors:
 - Sungho Lee
+- Chang Soo Cho
+- YoungHee Kim
+- Youngsang Kwon
 - Eunseo Choi
-- Minkyung Son
-- Seok Goo Song
-- Demián D. Gómez
-abstract: 'The 2011 Tohoku-Oki earthquake caused significant post-seismic (PS) deformations in a broad region in East Asia including the southern Korean Peninsula (SKP). In this study, we aim to better characterize the PS deformations in the SKP and understand the underlying physical mechanisms for them using linear Maxwell viscoelastic numerical models. We computed the annual mean velocities by applying the extended linear trend modelling technique to the publicly available Global Navigation Satellite System data. We then derived yearly PS deformation rates for the first five years after the 2011 Tohoku-Oki earthquake using a least-square collocation method. Our findings, along with the tectonic history of the SKP, suggest that the regions of elevated "true postseismic" maximum shear strain rates might have thinner or weakened lithosphere, which can be one of the consequences of the pervasive granitic intrusions in those regions.'
+
+abstract: 'Most earthquakes occur at plate boundaries, but some also strike within stable continental interiors. Although dominant causes of such intraplate earthquakes remain elusive, a prevailing hypothesis attributes intraplate stress and seismicity to variations in lithospheric thickness. Here, we test this hypothesis using the Korean Peninsula as a natural laboratory by constructing three‐dimensional numerical models that extend from the surface to a depth of 650 km, incorporating realistic plate boundary configurations and deep thermal and compositional heterogeneities. Our results show that lithospheric thickness variations alone cannot account for the observed seismicity distribution and stress orientations. Instead, models that include weak subduction interfaces, slabs extending into the transition zone, and mantle buoyancy—while excluding shallow lithospheric density contrasts—explain the observed seismicity and stress distribution. In particular, the subducted Pacific slab in the mantle transition zone acts as a gravitational sinker, enhancing crustal compression along the eastern margin of the peninsula.'
 featured: true
 publication_types: ["article-journal"]
-publication: '*Geophysical Journal International*'
+publication: '*Geophysical Research Letters*'
 url_pdf:
-doi: 10.1093/gji/ggaf182
+doi: 10.1029/2025GL119915
 links:
-projects: ["korea-gps"]
+projects: [""]
 ---
 
