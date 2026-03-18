@@ -1,7 +1,7 @@
 ---
 title: Welcome to our new News section
 date: 2026-02-05
-featured: true
+featured: false
 summary: We have updated our website to include a dedicated news section.
 tags: ["News"]
 ---
