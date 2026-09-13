@@ -1,0 +1,14 @@
+// Override this file to add your own SCSS styling.
+
+// Show 3 people per row (instead of the theme default of 5 on desktop)
+// so that a group of 6, like Alumni, lays out as 2 neat rows of 3.
+@media (min-width: 576px) {
+  .people-widget .col-sm-auto {
+    width: 33.333%;
+  }
+}
+@media (min-width: 992px) {
+  .people-widget .col-sm-auto {
+    width: 33.333%;
+  }
+}
