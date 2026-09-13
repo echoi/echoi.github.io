@@ -10,22 +10,22 @@ last_name: Silva
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Center for Earthquake Research and Information, University of Memphis
+- name: Lamont-Doherty Earth Observatory, Columbia University, New York, NY
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
 
 education:
-  # courses:
-  # - course: MSc in Geophysics
-  #   institution: The University of Memphis
-  #   year: 2019
+  courses:
+  - course: PhD in Geophysics
+    institution: The University of Memphis
+    year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,11 +34,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ksilva2@memphis.edu"
+  link: "mailto:ks4582@columbia.edu"
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ks4582@columbia.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
