@@ -10,11 +10,11 @@ last_name: Tian
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Davis
+- name: Peking University, China
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
